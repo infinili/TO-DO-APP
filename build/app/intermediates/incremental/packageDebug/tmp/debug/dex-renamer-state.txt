@@ -1,0 +1,4 @@
+#Mon Jun 12 21:00:33 MSK 2023
+base.0=/Volumes/disk/untitled/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

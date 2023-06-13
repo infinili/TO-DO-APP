@@ -1,0 +1,4 @@
+#!/bin/bash
+dart format homepage.dart
+dart format todo-tile.dart
+dart format main.dart
