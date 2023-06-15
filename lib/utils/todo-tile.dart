@@ -1,70 +1,65 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_slidable/flutter_slidable.dart';
+import 'package:untitled/utils/data.dart';
+import 'package:untitled/pages/taskpage.dart';
 
 class ToDoTile extends StatelessWidget {
-  final String taskName;
-  final bool taskCompleted;
-  Function(bool?)? onChanged;
-  Function(BuildContext)? deleteFunction;
-  Function(BuildContext)? checkFunction;
+  final int index;
+  final List toDoList;
+  final Data provider;
 
-  ToDoTile({
+  const ToDoTile({
     super.key,
-    required this.taskName,
-    required this.taskCompleted,
-    required this.onChanged,
-    required this.deleteFunction,
-    required this.checkFunction,
+    required this.index,
+    required this.toDoList,
+    required this.provider,
   });
 
   @override
   Widget build(BuildContext context) {
-    return Padding(
-      padding: const EdgeInsets.only(left: 7),
-      child: Slidable(
-        endActionPane: ActionPane(
-          motion: StretchMotion(),
-          children: [
-            SlidableAction(
-              onPressed: deleteFunction,
-              icon: Icons.delete,
-              backgroundColor: Color(0xFFFF3B30),
-            )
-          ],
+    return ListTile(
+      leading: Theme(
+        data: Theme.of(context).copyWith(
+          unselectedWidgetColor: const Color(0x4D000000),
         ),
-        startActionPane: ActionPane(
-          motion: StretchMotion(),
-          children: [
-            SlidableAction(
-              onPressed: checkFunction,
-              icon: Icons.check,
-              backgroundColor: Color(0xff34C759),
-            ),
-          ],
+        child: Checkbox(
+          activeColor: const Color(0xff34C759),
+          value: toDoList[index][1],
+          onChanged: (bool? value) {
+            provider.makeTaskCompleted(index, value);
+            toDoList[index][1] = value;
+            provider.getDoneList();
+          },
         ),
-        child: Container(
-          height: 80,
-          child: Row(
+      ),
+      title: Baseline(
+        baseline: 20,
+        baselineType: TextBaseline.alphabetic,
+        child: RichText(
+          overflow: TextOverflow.ellipsis,
+          maxLines: 3,
+          text: TextSpan(
             children: [
-              //checkbox
-              Theme(
-                data: Theme.of(context).copyWith(
-                  unselectedWidgetColor: const Color(0x4D000000),
-                ),
-                child: Checkbox(
-                  activeColor: Color(0xff34C759),
-                  value: taskCompleted,
-                  onChanged: onChanged,
-                ),
+              WidgetSpan(
+                child: toDoList[index][2] == 2
+                    ? const Text(
+                        '!!',
+                        style: TextStyle(
+                          color: Colors.red,
+                          fontWeight: FontWeight.bold,
+                          fontSize: 20,
+                        ),
+                      )
+                    : toDoList[index][2] == 1
+                        ? Icon(Icons.arrow_downward, size: 20)
+                        : const Text(''),
               ),
-
-              //task name
-              Text(
-                taskName,
+              TextSpan(
+                text: " ${toDoList[index][0]}",
                 style: TextStyle(
-                  fontSize: 20,
-                  height: 20 / 32,
-                  decoration: taskCompleted
+                  fontSize: 16,
+                  height: 20 / 16,
+                  color: Colors.black,
+                  decoration: toDoList[index][1]
                       ? TextDecoration.lineThrough
                       : TextDecoration.none,
                 ),
@@ -73,6 +68,34 @@ class ToDoTile extends StatelessWidget {
           ),
         ),
       ),
+      //subtitle: ,
+      trailing: InkWell(
+        onTap: () {
+          provider.touch(true);
+          provider.setPriority(provider.toDoList[index][2]);
+          Navigate(context);
+        },
+        child: const Icon(
+          Icons.info_outlined,
+          color: Color(0x4D000000),
+        ),
+      ),
     );
+  }
+
+  void Navigate(BuildContext context) {
+    Navigator.of(context).push(MaterialPageRoute(builder: (context) {
+      final bool showAll = provider.showAll;
+      final bool touched = provider.taskTouched;
+      final String? title = provider.toDoList[index][0];
+      final String? titleFromUnDone =
+          !provider.showAll ? provider.UnDoneList[index][0] ?? '' : null;
+      return TaskPage(
+        index: index,
+        showAll: showAll,
+        title: title,
+        titleFromUnDone: titleFromUnDone,
+      );
+    }));
   }
 }

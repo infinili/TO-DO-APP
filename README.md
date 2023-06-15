@@ -1,16 +1,15 @@
-# untitled
+#TO DO APP
 
-A new Flutter project.
+Приложение, созданное для грамотного планирования своего времени. Позволяет записывать свои дела в виде списка, а также редактировать их. Можно установить степень важности дела, но установления времени, к которому это дело нужно выполнить, пока что нет. 
 
-## Getting Started
+#Внешний вид
 
-This project is a starting point for a Flutter application.
+Приложение состоит из двух экранов: домашнего и редакционного. На домашнем экране отображается список дел, их важность и кнопка в виде глаза, с помощью которой можно просмотреть либо все задачи, либо только невыполненные. Задачи можно удалять или отмечать (ставить галочку в чекбоксе) путем слайда влево или вправо. На экране редактирование присутсвует окно для записи самой задачи, окно для выбора степени важности дела и кнопка удаления дела. 
 
-A few resources to get you started if this is your first Flutter project:
+#Screenshots
+<image src = "screenshots/1.png">
+<image src = "screenshots/2.png">
+<image src = "screenshots/3.png">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#Link
+https://disk.yandex.ru/client/disk/TO%20DO%20APP

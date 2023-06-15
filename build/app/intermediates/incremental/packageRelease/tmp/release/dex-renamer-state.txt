@@ -1,0 +1,4 @@
+#Thu Jun 15 23:10:11 MSK 2023
+base.0=/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
