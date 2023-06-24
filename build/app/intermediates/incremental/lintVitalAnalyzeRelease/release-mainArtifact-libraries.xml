@@ -4,9 +4,35 @@
       jars="/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/flutter/release/libs.jar"
       resolved="__local_aars__:/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
-      name="io.flutter:flutter_embedding_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b/8b1015133760e96a691fb3c26c9b6bf1223c0503/flutter_embedding_release-1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b.jar"
-      resolved="io.flutter:flutter_embedding_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b"/>
+      name="/Volumes/disk/repo/TO-DO-APP/android@@:shared_preferences_android::release"
+      jars="/Volumes/disk/repo/TO-DO-APP/build/shared_preferences_android/.transforms/2f5a3b704c3ad3f0b4c0a7258199ea60/transformed/out/jars/classes.jar"
+      resolved="io.flutter.plugins.sharedpreferences:shared_preferences_android:unspecified"
+      folder="/Volumes/disk/repo/TO-DO-APP/build/shared_preferences_android/.transforms/2f5a3b704c3ad3f0b4c0a7258199ea60/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="/Volumes/disk/repo/TO-DO-APP/android@@:path_provider_android::release"
+      jars="/Volumes/disk/repo/TO-DO-APP/build/path_provider_android/.transforms/e7cc75b638b12cc3e28de5e76bc8126a/transformed/out/jars/classes.jar"
+      resolved="io.flutter.plugins.pathprovider:path_provider_android:unspecified"
+      folder="/Volumes/disk/repo/TO-DO-APP/build/path_provider_android/.transforms/e7cc75b638b12cc3e28de5e76bc8126a/transformed/out"
+      manifest="AndroidManifest.xml"
+      resFolder="res"
+      assetsFolder="assets"
+      lintJar="lint.jar"
+      publicResources="public.txt"
+      symbolFile="R.txt"
+      externalAnnotations="annotations.zip"
+      proguardRules="proguard.txt"/>
+  <library
+      name="io.flutter:flutter_embedding_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420/791cf6662213614ac515b13bbd2083cf60dcf61e/flutter_embedding_release-1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420.jar"
+      resolved="io.flutter:flutter_embedding_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420"/>
   <library
       name="androidx.window:window-java:1.0.0-beta04@aar"
       jars="/Users/liza/.gradle/caches/transforms-3/006d93cd422dbc43e89591147c2de572/transformed/jetified-window-java-1.0.0-beta04/jars/classes.jar"
@@ -50,29 +76,17 @@
       jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.7.10/1ef73fee66f45d52c67e2aca12fd945dbe0659bf/kotlin-stdlib-jdk7-1.7.10.jar"
       resolved="org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.7.10"/>
   <library
-      name="io.flutter:armeabi_v7a_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b/77f423609596ba316622b1a6f53a7f53e0c72af/armeabi_v7a_release-1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b.jar"
-      resolved="io.flutter:armeabi_v7a_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b"/>
+      name="io.flutter:armeabi_v7a_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/armeabi_v7a_release/1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420/c9f7bcf2d86a2218089a99fca3de3669a1e03924/armeabi_v7a_release-1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420.jar"
+      resolved="io.flutter:armeabi_v7a_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420"/>
   <library
-      name="io.flutter:arm64_v8a_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b/e1f1597241e0cb165cf13bf8da78d11cd528f7ee/arm64_v8a_release-1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b.jar"
-      resolved="io.flutter:arm64_v8a_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b"/>
+      name="io.flutter:arm64_v8a_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/arm64_v8a_release/1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420/a17dc953f5084a8f2b87d93e3ae01b763fe881ec/arm64_v8a_release-1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420.jar"
+      resolved="io.flutter:arm64_v8a_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420"/>
   <library
-      name="io.flutter:x86_64_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b/b00f865a6eae6b5180a36f33d323e72083e762ab/x86_64_release-1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b.jar"
-      resolved="io.flutter:x86_64_release:1.0.0-ec975089acb540fc60752606a3d3ba809dd1528b"/>
-  <library
-      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.10"/>
-  <library
-      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar"
-      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10"/>
-  <library
-      name="org.jetbrains:annotations:13.0@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
-      resolved="org.jetbrains:annotations:13.0"/>
+      name="io.flutter:x86_64_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/io.flutter/x86_64_release/1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420/44d8c79838c2a07cc302163f4665756a8c412a3c/x86_64_release-1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420.jar"
+      resolved="io.flutter:x86_64_release:1.0.0-45f6e009110df4f34ec2cf99f63cf73b71b7a420"/>
   <library
       name="androidx.lifecycle:lifecycle-common-java8:2.2.0@jar"
       jars="/Users/liza/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar"
@@ -259,9 +273,21 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="androidx.annotation:annotation:1.2.0@jar"
-      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.2.0/57136ff68ee784c6e19db34ed4a175338fadfde1/annotation-1.2.0.jar"
-      resolved="androidx.annotation:annotation:1.2.0"/>
+      name="androidx.annotation:annotation:1.5.0@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.5.0/857678d6b4ca7b28571ef7935c668bdb57e15027/annotation-1.5.0.jar"
+      resolved="androidx.annotation:annotation:1.5.0"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib:1.7.10@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.7.10/d2abf9e77736acc4450dc4a3f707fa2c10f5099d/kotlin-stdlib-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib:1.7.10"/>
+  <library
+      name="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.7.10/bac80c520d0a9e3f3673bc2658c6ed02ef45a76a/kotlin-stdlib-common-1.7.10.jar"
+      resolved="org.jetbrains.kotlin:kotlin-stdlib-common:1.7.10"/>
+  <library
+      name="org.jetbrains:annotations:13.0@jar"
+      jars="/Users/liza/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar"
+      resolved="org.jetbrains:annotations:13.0"/>
   <library
       name="androidx.annotation:annotation-experimental:1.1.0@aar"
       jars="/Users/liza/.gradle/caches/transforms-3/8965c941cf4bee4d72541b965c7c9d39/transformed/jetified-annotation-experimental-1.1.0/jars/classes.jar"

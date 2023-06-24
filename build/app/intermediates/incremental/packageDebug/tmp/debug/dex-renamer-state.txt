@@ -1,4 +1,4 @@
-#Thu Jun 15 20:01:01 MSK 2023
+#Sat Jun 24 05:49:50 MSK 2023
 base.0=/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
