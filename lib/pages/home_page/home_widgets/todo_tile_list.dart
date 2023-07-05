@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:untitled/data/task.dart';
+import 'package:untitled/generated/l10n.dart';
 import 'package:untitled/pages/task_page/taskpage.dart';
 import 'package:untitled/provider/provider.dart';
 
@@ -21,18 +22,18 @@ class _TaskTileState extends State<TaskTile> {
 
   String convertDateTime(DateTime dt) {
     List<String> months = [
-      'января',
-      'февраля',
-      'марта',
-      'апреля',
-      'мая',
-      'июня',
-      'июля',
-      'августа',
-      'сентября',
-      'октября',
-      'ноября',
-      'декабря',
+      S.of(context).jan,
+      S.of(context).feb,
+      S.of(context).mar,
+      S.of(context).apr,
+      S.of(context).may,
+      S.of(context).jun,
+      S.of(context).jul,
+      S.of(context).aug,
+      S.of(context).sep,
+      S.of(context).oct,
+      S.of(context).nov,
+      S.of(context).dec,
     ];
     return "${dt.day} ${months[dt.month - 1]} ${dt.year}";
   }
@@ -73,7 +74,7 @@ class _TaskTileState extends State<TaskTile> {
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
-            (widget._task.priority == '!! Высокий')
+            (widget._task.priority == "important")
                 ? Padding(
                     padding: const EdgeInsets.only(left: 20, top: 5, right: 10),
                     child: SizedBox(
@@ -138,7 +139,7 @@ class _TaskTileState extends State<TaskTile> {
                       ),
                     ),
                   ),
-            (widget._task.priority == '!! Высокий')
+            (widget._task.priority == S.of(context).high)
                 ? const Padding(
                     padding: EdgeInsets.only(top: 5, right: 2),
                     child: Text(
@@ -150,7 +151,7 @@ class _TaskTileState extends State<TaskTile> {
                       ),
                     ))
                 : const SizedBox.shrink(),
-            (widget._task.priority == 'Низкий')
+            (widget._task.priority == "low")
                 ? const Padding(
                     padding: EdgeInsets.only(top: 5, right: 2),
                     child: Icon(Icons.arrow_downward, size: 20))
@@ -233,155 +234,7 @@ class _TaskTileState extends State<TaskTile> {
             ),
           ],
         ),
-        // child: ListTile(
-        //   leading: Theme(
-        //     data: Theme.of(context).copyWith(
-        //       unselectedWidgetColor: const Color(0x4D000000),
-        //     ),
-        //     child: Checkbox(
-        //       activeColor: Colors.green,
-        //       value: _isChecked,
-        //       onChanged: (bool? value) {
-        //         if (_isChecked) {
-        //           provider.changeActive(widget.id, true);
-        //         } else {
-        //           provider.changeActive(widget.id, false);
-        //         }
-        //       },
-        //     ),
-        //   ),
-        //   title: Baseline(
-        //     baseline: 20,
-        //     baselineType: TextBaseline.alphabetic,
-        //     child: RichText(
-        //       overflow: TextOverflow.ellipsis,
-        //       maxLines: 3,
-        //       text: TextSpan(
-        //         children: [
-        //           WidgetSpan(
-        //             child: widget._task.priority == 'Высокий'
-        //                 ? const Text(
-        //                     '!!',
-        //                     style: TextStyle(
-        //                       color: Colors.red,
-        //                       fontWeight: FontWeight.bold,
-        //                       fontSize: 20,
-        //                     ),
-        //                   )
-        //                 : widget._task.priority == 'Низкий'
-        //                     ? const Icon(Icons.arrow_downward, size: 20)
-        //                     : const Text(''),
-        //           ),
-        //           TextSpan(
-        //             text: widget._task.title,
-        //             style: TextStyle(
-        //               fontSize: 16,
-        //               height: 20 / 16,
-        //               color: Colors.black,
-        //               decoration: (_isChecked)
-        //                   ? TextDecoration.lineThrough
-        //                   : TextDecoration.none,
-        //             ),
-        //           ),
-        //         ],
-        //       ),
-        //     ),
-        //   ),
-        //   subtitle: Text(
-        //     convertDateTime(widget._task.date!),
-        //     style: Theme.of(context).textTheme.titleMedium,
-        //   ),
-        //   trailing: InkWell(
-        //     onTap: () {
-        //       Navigator.push(
-        //           context,
-        //           MaterialPageRoute(
-        //               builder: (context) => TaskPage(
-        //                     task: widget._task,
-        //                   )));
-        //     },
-        //     child: Icon(
-        //       Icons.info_outlined,
-        //       color: Theme.of(context).secondaryHeaderColor,
-        //     ),
-        //   ),
-        // ),
       ),
     );
   }
 }
-
-
-
-
-
-
-
-// class ToDoTileList extends StatefulWidget {
-//   const ToDoTileList({super.key});
-
-//   @override
-//   State<ToDoTileList> createState() => _ToDoTileListState();
-// }
-
-// class _ToDoTileListState extends State<ToDoTileList> {
-//   @override
-//   Widget build(BuildContext context) {
-//     Data provider = Provider.of<Data>(context);
-//     List toDoList = provider.showAll ? provider.toDoList : provider.unDoneList;
-
-//     return ListView.builder(
-//       shrinkWrap: true,
-//       physics: const NeverScrollableScrollPhysics(),
-//       itemCount: toDoList.length,
-//       itemBuilder: (context, index) {
-//         return ClipRect(
-//           child: Dismissible(
-//             key: ValueKey(toDoList[index]),
-//             confirmDismiss: (direction) {
-//               if (direction == DismissDirection.startToEnd) {
-//                 provider.makeTaskCompleted(index, true);
-//                 toDoList[index][1] = true;
-//                 provider.getDoneList();
-
-//                 return Future.value(false);
-//               } else {
-//                 return Future.value(true);
-//               }
-//             },
-//             onDismissed: (direction) {
-//               if (direction == DismissDirection.endToStart) {
-//                 if (provider.showAll) {
-//                   provider.deleteTask(index);
-//                 } else {
-//                   provider.deleteTask(index);
-//                   provider.deleteUnDoneTask(index);
-//                 }
-//               }
-//               provider.getDoneList();
-//             },
-//             background: Container(
-//               color: const Color(0xff34C759),
-//               child: const Icon(
-//                 Icons.check,
-//                 color: Colors.white,
-//               ),
-//             ),
-//             secondaryBackground: Container(
-//               color: const Color(0xffff3b30),
-//               child: const Icon(
-//                 Icons.delete,
-//                 color: Colors.white,
-//               ),
-//             ),
-//             child: ToDoTile(
-//               index: index,
-//               toDoList: toDoList,
-//               provider: provider,
-//             ),
-//           ),
-//         );
-//       },
-//     );
-//   }
-// }

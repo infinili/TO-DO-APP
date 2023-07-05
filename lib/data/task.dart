@@ -47,19 +47,4 @@ class Task {
           // STRING
         },
       };
-
-  // Task.fromJson(Map<dynamic, dynamic> json)
-  //     : id = json['id'],
-  //       title = json['title'],
-  //       completed = json['completed'],
-  //       priority = json['priority'],
-  //       date = json['date'];
-
-  // Map<dynamic, dynamic> toJson() => {
-  //       'id': id,
-  //       'title': title,
-  //       'completed': completed,
-  //       'priority': priority,
-  //       'date': date,
-  //     };
 }

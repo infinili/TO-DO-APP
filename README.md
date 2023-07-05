@@ -16,8 +16,5 @@
 | <image src = "screenshots/1.png" width="300" /> | <image src = "screenshots/2.png" width="300" /> | <image src = "screenshots/3.png" width="300" /> |
 
 # Link
-https://disk.yandex.ru/client/disk/TO%20DO%20APP
 
-Ссылка сверху не рабочая, добавлю вроде рабочую 
 https://disk.yandex.ru/d/jsnfJFpfyjXPUQ
-Еще загрузила апк в релизы, сделала это только сейчас, потому что первый проверяющий пожаловался, что ссылка не работает

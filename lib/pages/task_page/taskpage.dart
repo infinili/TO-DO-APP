@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:untitled/data/task.dart';
+import 'package:untitled/generated/l10n.dart';
 import 'package:untitled/logger/logger.dart';
 import 'package:untitled/provider/provider.dart';
 
@@ -20,10 +21,11 @@ class _TaskPageState extends State<TaskPage> {
   TextEditingController priorityController = TextEditingController();
   bool _isSwitched = false;
   bool _emptyText = false;
+  bool _isUploadedDateTime = false;
   bool _isButtonDisabled = true;
   DateTime? _selectedDate;
   String _toDate = "";
-  String _priority = "";
+  String _priority = "basic";
 
   @override
   void initState() {
@@ -34,8 +36,8 @@ class _TaskPageState extends State<TaskPage> {
     }
     inputController = TextEditingController(text: widget._task?.title ?? "");
     priorityController =
-        TextEditingController(text: widget._task?.priority ?? "");
-    _priority = widget._task?.priority ?? "";
+        TextEditingController(text: widget._task?.priority ?? "basic");
+    _priority = widget._task?.priority ?? "basic";
     super.initState();
   }
 
@@ -56,18 +58,18 @@ class _TaskPageState extends State<TaskPage> {
       _selectedDate = tmp;
       if (tmp != null) {
         List<String> months = [
-          'января',
-          'февраля',
-          'марта',
-          'апреля',
-          'мая',
-          'июня',
-          'июля',
-          'августа',
-          'сентября',
-          'октября',
-          'ноября',
-          'декабря',
+          S.of(context).jan,
+          S.of(context).feb,
+          S.of(context).mar,
+          S.of(context).apr,
+          S.of(context).may,
+          S.of(context).jun,
+          S.of(context).jul,
+          S.of(context).aug,
+          S.of(context).sep,
+          S.of(context).oct,
+          S.of(context).nov,
+          S.of(context).dec,
         ];
         _toDate = "${tmp.day} ${months[tmp.month - 1]} ${tmp.year}";
       } else {
@@ -79,18 +81,18 @@ class _TaskPageState extends State<TaskPage> {
 
   String convertDateTime(DateTime dt) {
     List<String> months = [
-      'января',
-      'февраля',
-      'марта',
-      'апреля',
-      'мая',
-      'июня',
-      'июля',
-      'августа',
-      'сентября',
-      'октября',
-      'ноября',
-      'декабря',
+      S.of(context).jan,
+      S.of(context).feb,
+      S.of(context).mar,
+      S.of(context).apr,
+      S.of(context).may,
+      S.of(context).jun,
+      S.of(context).jul,
+      S.of(context).aug,
+      S.of(context).sep,
+      S.of(context).oct,
+      S.of(context).nov,
+      S.of(context).dec,
     ];
     return "${dt.day} ${months[dt.month - 1]} ${dt.year}";
   }
@@ -100,6 +102,7 @@ class _TaskPageState extends State<TaskPage> {
       setState(() {
         _isSwitched = true;
         _toDate = convertDateTime(date);
+        _selectedDate = date;
       });
     }
   }
@@ -110,7 +113,11 @@ class _TaskPageState extends State<TaskPage> {
     double widthScreen = MediaQuery.of(context).size.width;
 
     if (priorityController.text == "") {
-      priorityController.text = 'Нет';
+      priorityController.text = S.of(context).none;
+    }
+    if (!_isUploadedDateTime) {
+      _setDate(widget._task?.date);
+      _isUploadedDateTime = true;
     }
     _setDate(widget._task?.date);
     return Scaffold(
@@ -151,9 +158,9 @@ class _TaskPageState extends State<TaskPage> {
                       }
                     }
                   },
-                  child: const Text(
-                    'СОХРАНИТЬ',
-                    style: TextStyle(
+                  child: Text(
+                    S.of(context).save,
+                    style: const TextStyle(
                       fontSize: 14,
                       height: 24 / 14,
                     ),
@@ -184,9 +191,9 @@ class _TaskPageState extends State<TaskPage> {
                           child: TextField(
                             textInputAction: TextInputAction.done,
                             textCapitalization: TextCapitalization.words,
-                            decoration: const InputDecoration(
-                              contentPadding: EdgeInsets.all(16),
-                              hintText: 'Что надо сделать...',
+                            decoration: InputDecoration(
+                              contentPadding: const EdgeInsets.all(16),
+                              hintText: S.of(context).what_need_to_do,
                               border: InputBorder.none,
                             ),
                             maxLines: null,
@@ -205,7 +212,7 @@ class _TaskPageState extends State<TaskPage> {
                         alignment: Alignment.centerLeft,
                         child: DropdownMenu<String>(
                           controller: priorityController,
-                          label: const Text('Важность'),
+                          label: Text(S.of(context).priority),
                           textStyle: Theme.of(context).textTheme.titleMedium,
                           initialSelection: _priority,
                           trailingIcon: const Icon(
@@ -213,12 +220,13 @@ class _TaskPageState extends State<TaskPage> {
                             size: 0,
                           ),
                           dropdownMenuEntries: [
-                            const DropdownMenuEntry(value: 'Нет', label: 'Нет'),
-                            const DropdownMenuEntry(
-                                value: 'Низкий', label: 'Низкий'),
                             DropdownMenuEntry(
-                                value: '!! Высокий',
-                                label: '!! Высокий',
+                                value: "basic", label: S.of(context).none),
+                            DropdownMenuEntry(
+                                value: "low", label: S.of(context).low),
+                            DropdownMenuEntry(
+                                value: "important",
+                                label: S.of(context).high,
                                 style: TextButton.styleFrom(
                                     foregroundColor: Colors.red)),
                           ],
@@ -267,7 +275,7 @@ class _TaskPageState extends State<TaskPage> {
                                       Theme.of(context).textTheme.titleMedium,
                                 ),
                                 title: Text(
-                                  'Сделать до',
+                                  S.of(context).do_before,
                                   style: Theme.of(context).textTheme.bodyLarge,
                                 ),
                                 trailing: Switch(
@@ -291,7 +299,7 @@ class _TaskPageState extends State<TaskPage> {
                               )
                             : Row(
                                 children: [
-                                  Text('Сделать до',
+                                  Text(S.of(context).do_before,
                                       style: Theme.of(context)
                                           .textTheme
                                           .bodyMedium),
@@ -328,7 +336,7 @@ class _TaskPageState extends State<TaskPage> {
                       ),
                     ),
                     Padding(
-                      padding: EdgeInsets.only(left: 5, top: 20),
+                      padding: const EdgeInsets.only(left: 5, top: 20),
                       child: TextButton(
                         onPressed: () {
                           if (_isButtonDisabled) return;
@@ -348,7 +356,7 @@ class _TaskPageState extends State<TaskPage> {
                               ),
                             ),
                             Text(
-                              'Удалить',
+                              S.of(context).delete,
                               style: Theme.of(context)
                                   .textTheme
                                   .bodyLarge!
@@ -372,314 +380,3 @@ class _TaskPageState extends State<TaskPage> {
     );
   }
 }
-
-
-
-
-
-
-// class TaskPage extends StatefulWidget {
-//   final int index;
-//   final bool touched;
-//   final bool? showAll;
-//   final String? title;
-//   final String? titleFromUnDone;
-
-//   const TaskPage({
-//     super.key,
-//     this.touched = false,
-//     this.showAll,
-//     this.title,
-//     this.titleFromUnDone,
-//     this.index = 0,
-//   });
-
-//   @override
-//   State<TaskPage> createState() => _TaskPageState();
-// }
-
-// class _TaskPageState extends State<TaskPage> {
-//   TextEditingController myController = TextEditingController();
-
-//   @override
-//   void initState() {
-//     super.initState();
-//     {
-//       String? text = '';
-//       if (widget.showAll == true) {
-//         text = widget.title;
-//       } else {
-//         text = widget.titleFromUnDone;
-//       }
-//       myController = TextEditingController(text: text);
-//     }
-//   }
-
-//   @override
-//   void dispose() {
-//     myController.dispose();
-//     super.dispose();
-//   }
-
-//   void renew(Data provider) {
-//     provider.setPriority(0);
-//     provider.getDoneList();
-//     provider.getUnDoneList();
-//     provider.touch(false);
-//   }
-
-//   Future<void> selectTaskDate(BuildContext context, Data provider) async {
-//     await showDatePicker(
-//       context: context,
-//       initialDate: DateTime.now(),
-//       firstDate: DateTime(2020),
-//       lastDate: DateTime(2025),
-//       locale: const Locale('ru'),
-//     ).then((value) {
-//       provider.changeDate(value);
-//     });
-//   }
-
-//   @override
-//   Widget build(BuildContext context) {
-//     Data provider = Provider.of<Data>(context);
-//     double widthScreen = MediaQuery.of(context).size.width;
-
-//     return Scaffold(
-//       body: CustomScrollView(
-//         slivers: [
-//           SliverAppBar(
-//             backgroundColor: const Color(0xfff7f6f2),
-//             pinned: true,
-//             leading: Builder(
-//               builder: (BuildContext context) {
-//                 return IconButton(
-//                   color: Colors.black,
-//                   icon: const Icon(Icons.close),
-//                   onPressed: () {
-//                     MyLogger.instance.mes('Editing page is closed');
-//                     Navigator.of(context).pop();
-//                   },
-//                 );
-//               },
-//             ),
-//             actions: <Widget>[
-//               Padding(
-//                 padding: const EdgeInsets.only(right: 15),
-//                 child: TextButton(
-//                   onPressed: () {
-//                     if (provider.taskTouched) {
-//                       provider.remake(
-//                           widget.index,
-//                           myController.text,
-//                           false,
-//                           provider.priority,
-//                           provider.switcher ? '${provider.selectedDay}' : '');
-//                     } else {
-//                       provider.createNewTask(
-//                           myController.text,
-//                           false,
-//                           provider.priority,
-//                           provider.switcher ? '${provider.selectedDay}' : '');
-//                     }
-//                     renew(provider);
-//                     Navigator.of(context).pop();
-//                   },
-//                   child: const Text(
-//                     'СОХРАНИТЬ',
-//                     style: TextStyle(
-//                       fontSize: 14,
-//                       height: 24 / 14,
-//                     ),
-//                   ),
-//                 ),
-//               ),
-//             ],
-//           ),
-//           SliverList(
-//             delegate: SliverChildBuilderDelegate(
-//               (BuildContext context, int index) {
-//                 return Column(
-//                   crossAxisAlignment: CrossAxisAlignment.start,
-//                   children: [
-//                     Padding(
-//                       padding:
-//                           const EdgeInsets.only(left: 16.0, right: 16, top: 23),
-//                       child: Card(
-//                         margin: EdgeInsets.zero,
-//                         semanticContainer: false,
-//                         elevation: 2,
-//                         shape: const RoundedRectangleBorder(
-//                           borderRadius: BorderRadius.all(Radius.circular(10)),
-//                         ),
-//                         child: ConstrainedBox(
-//                           constraints: const BoxConstraints(
-//                               minHeight: 104, maxHeight: 1000),
-//                           child: TextField(
-//                             textInputAction: TextInputAction.done,
-//                             textCapitalization: TextCapitalization.words,
-//                             decoration: const InputDecoration(
-//                               contentPadding: EdgeInsets.all(16),
-//                               hintText: 'Что надо сделать...',
-//                               border: InputBorder.none,
-//                             ),
-//                             maxLines: null,
-//                             controller: myController,
-//                           ),
-//                         ),
-//                       ),
-//                     ),
-//                     const SizedBox(
-//                       height: 20,
-//                     ),
-//                     Padding(
-//                       padding:
-//                           const EdgeInsets.only(right: 16, left: 16, top: 16),
-//                       child: SizedBox(
-//                         child: Column(
-//                           crossAxisAlignment: CrossAxisAlignment.start,
-//                           children: [
-//                             const Text(
-//                               'Важность',
-//                               style: TextStyle(
-//                                 fontSize: 16,
-//                                 height: 20 / 16,
-//                               ),
-//                             ),
-//                             DropdownButton<int>(
-//                               iconSize: 0,
-//                               elevation: 8,
-//                               underline: const Divider(
-//                                 color: Colors.transparent,
-//                               ),
-//                               alignment: Alignment.centerLeft,
-//                               value: provider.priority,
-//                               items: const [
-//                                 DropdownMenuItem(
-//                                   value: 0,
-//                                   child: Text(
-//                                     'Нет',
-//                                     style: TextStyle(
-//                                       fontSize: 16,
-//                                       height: 20 / 16,
-//                                     ),
-//                                   ),
-//                                 ),
-//                                 DropdownMenuItem(
-//                                   value: 1,
-//                                   child: Text(
-//                                     'Низкий',
-//                                     style: TextStyle(
-//                                       fontSize: 16,
-//                                       height: 20 / 16,
-//                                     ),
-//                                   ),
-//                                 ),
-//                                 DropdownMenuItem(
-//                                   value: 2,
-//                                   child: Text(
-//                                     '!!Высокий',
-//                                     style: TextStyle(
-//                                       color: Colors.red,
-//                                       fontSize: 16,
-//                                       height: 20 / 16,
-//                                     ),
-//                                   ),
-//                                 ),
-//                               ],
-//                               onChanged: (value) => provider.setPriority(value),
-//                             ),
-//                           ],
-//                         ),
-//                       ),
-//                     ),
-//                     Padding(
-//                       padding: const EdgeInsets.only(left: 16.0, right: 8),
-//                       child: ListTile(
-//                         minLeadingWidth: widthScreen,
-//                         contentPadding: EdgeInsets.zero,
-//                         subtitle: provider.switcher
-//                             ? Text(
-//                                 provider.selectedDay!,
-//                                 style: Theme.of(context).textTheme.titleMedium,
-//                               )
-//                             : const Text(''),
-//                         title: Text(
-//                           'Сделать до',
-//                           style: Theme.of(context).textTheme.bodyLarge,
-//                         ),
-//                         trailing: Switch(
-//                           materialTapTargetSize:
-//                               MaterialTapTargetSize.shrinkWrap,
-//                           value: provider.switcher,
-//                           onChanged: (value) async {
-//                             provider.changeButton(value);
-//                             if (provider.switcher) {
-//                               await selectTaskDate(context, provider);
-//                             }
-//                           },
-//                         ),
-//                       ),
-//                     ),
-//                     const Padding(
-//                       padding: EdgeInsets.only(
-//                         left: 16,
-//                         right: 16,
-//                         top: 0,
-//                       ),
-//                       child: Divider(
-//                         height: 0.5,
-//                         thickness: 1,
-//                       ),
-//                     ),
-//                     Padding(
-//                       padding: EdgeInsets.only(left: 16, top: 20),
-//                       child: Row(
-//                         children: [
-//                           AbsorbPointer(
-//                             absorbing: !provider.taskTouched ? true : false,
-//                             child: InkWell(
-//                               onTap: () => provider.deleteTask(widget.index),
-//                               child: Icon(
-//                                 Icons.delete,
-//                                 color: provider.taskTouched
-//                                     ? Colors.red
-//                                     : const Color(0x4D000000),
-//                               ),
-//                             ),
-//                           ),
-//                           const SizedBox(width: 10),
-//                           AbsorbPointer(
-//                             absorbing: !provider.taskTouched ? true : false,
-//                             child: InkWell(
-//                               onTap: () {
-//                                 provider.deleteTask(widget.index);
-//                                 renew(provider);
-//                                 Navigator.of(context).pop();
-//                               },
-//                               child: Text(
-//                                 'Удалить',
-//                                 style: TextStyle(
-//                                   fontSize: 16,
-//                                   height: 20 / 16,
-//                                   color: provider.taskTouched
-//                                       ? Colors.red
-//                                       : const Color(0x4D000000),
-//                                 ),
-//                               ),
-//                             ),
-//                           ),
-//                         ],
-//                       ),
-//                     ),
-//                   ],
-//                 );
-//               },
-//               childCount: 1,
-//             ),
-//           ),
-//         ],
-//       ),
-//     );
-//   }
-// }
