@@ -68,6 +68,24 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "firebase_core",
+      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/firebase_core-2.15.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_core_platform_interface",
+      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/firebase_core_platform_interface-4.8.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
+      "name": "firebase_core_web",
+      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/firebase_core_web-2.6.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    },
+    {
       "name": "flutter",
       "rootUri": "file:///Users/liza/development/flutter/packages/flutter",
       "packageUri": "lib/",
@@ -108,18 +126,6 @@
       "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/google_fonts-4.0.5",
       "packageUri": "lib/",
       "languageVersion": "2.14"
-    },
-    {
-      "name": "hive",
-      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/hive-2.2.3",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
-    },
-    {
-      "name": "hive_flutter",
-      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/hive_flutter-1.1.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.12"
     },
     {
       "name": "http",
@@ -368,7 +374,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-05T19:34:47.841338Z",
+  "generated": "2023-07-15T17:56:51.089464Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }

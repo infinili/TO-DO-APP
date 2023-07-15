@@ -40,7 +40,6 @@ class _TaskTileState extends State<TaskTile> {
 
   @override
   Widget build(BuildContext context) {
-    Data provider = Provider.of<Data>(context);
     _isChecked = widget._task.completed;
 
     return Padding(
@@ -49,11 +48,13 @@ class _TaskTileState extends State<TaskTile> {
         key: UniqueKey(),
         confirmDismiss: (DismissDirection direction) {
           if (direction == DismissDirection.startToEnd) {
-            _isChecked = !_isChecked;
-            provider.changeActive(widget.id, _isChecked);
+            setState(() {
+              _isChecked = !_isChecked;
+            });
+            context.read<Prov>().changeActive(widget.id, _isChecked);
             return Future.value(false);
           } else {
-            provider.deleteTask(widget.id);
+            context.read<Prov>().deleteTask(widget._task.id);
           }
           return Future(() => null);
         },
@@ -99,9 +100,13 @@ class _TaskTileState extends State<TaskTile> {
                                   _isChecked = value!;
                                 });
                                 if (_isChecked) {
-                                  provider.changeActive(widget.id, true);
+                                  context
+                                      .read<Prov>()
+                                      .changeActive(widget.id, true);
                                 } else {
-                                  provider.changeActive(widget.id, false);
+                                  context
+                                      .read<Prov>()
+                                      .changeActive(widget.id, false);
                                 }
                               },
                             ))))
@@ -131,15 +136,15 @@ class _TaskTileState extends State<TaskTile> {
                             _isChecked = value!;
                           });
                           if (_isChecked) {
-                            provider.changeActive(widget.id, true);
+                            context.read<Prov>().changeActive(widget.id, true);
                           } else {
-                            provider.changeActive(widget.id, false);
+                            context.read<Prov>().changeActive(widget.id, false);
                           }
                         },
                       ),
                     ),
                   ),
-            (widget._task.priority == S.of(context).high)
+            (widget._task.priority == S.of(context)!.high)
                 ? const Padding(
                     padding: EdgeInsets.only(top: 5, right: 2),
                     child: Text(
@@ -162,7 +167,7 @@ class _TaskTileState extends State<TaskTile> {
                     child: Padding(
                       padding: const EdgeInsets.only(top: 3),
                       child: Text(
-                        widget._task.title,
+                        widget._task.title!,
                         style: TextStyle(
                           color: (_isChecked)
                               ? Theme.of(context).textTheme.bodySmall!.color
@@ -186,7 +191,7 @@ class _TaskTileState extends State<TaskTile> {
                           const VisualDensity(horizontal: 0, vertical: -4),
                       contentPadding: const EdgeInsets.all(0),
                       title: Text(
-                        widget._task.title,
+                        widget._task.title!,
                         style: TextStyle(
                           color: (_isChecked)
                               ? Theme.of(context).textTheme.bodySmall!.color
@@ -202,12 +207,7 @@ class _TaskTileState extends State<TaskTile> {
                       ),
                       subtitle: Text(
                         convertDateTime(widget._task.date!),
-                        style: TextStyle(
-                            color: (!_isChecked)
-                                ? const Color(0x99000000)
-                                : Theme.of(context).textTheme.bodySmall!.color,
-                            fontSize: 14,
-                            height: 20 / 14),
+                        style: Theme.of(context).textTheme.bodySmall,
                       ),
                     ),
                   ),

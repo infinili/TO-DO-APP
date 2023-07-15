@@ -1,30 +1,22 @@
-import 'package:flutter/material.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:untitled/data/database.dart';
 import 'package:untitled/model/model.dart';
 import 'package:untitled/data/task.dart';
 import 'package:untitled/logger/logger.dart';
 
-class Data with ChangeNotifier {
-  Model? _model = null;
+class Prov with ChangeNotifier {
+  Model? _model;
 
   List<Task> get getTasks => _model!.tasks;
   int get getCount => _model!.count;
   int get completedCnt => _model!.completedCnt;
-  bool get showAll => _model!.showAll;
-
-  void reShow(bool value) {
-    MyLogger.instance.mes('Changed showing');
-    _model!.showAll = value;
-
-    notifyListeners();
-  }
 
   Future<bool> init() async {
     if (_model == null) {
       _model = Model();
       await _model!.init();
-      return true;
-    } else
-      return true;
+    }
+    return true;
   }
 
   void deleteTask(int id) {
@@ -58,9 +50,5 @@ class Data with ChangeNotifier {
     _model!.saveToLocal();
 
     notifyListeners();
-  }
-
-  void deleteAll() {
-    _model!.deleteAll();
   }
 }

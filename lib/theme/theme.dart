@@ -31,6 +31,7 @@ class AppTheme {
           backgroundColor:
               isDark ? const Color(0xFF161618) : const Color(0xFFF7F6F2),
         ),
+        iconTheme: const IconThemeData(color: Color(0xff007aff)),
         inputDecorationTheme: InputDecorationTheme(
           enabledBorder: OutlineInputBorder(
             borderRadius: BorderRadius.circular(8),

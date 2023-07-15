@@ -109,7 +109,6 @@ class _TaskPageState extends State<TaskPage> {
 
   @override
   Widget build(BuildContext context) {
-    Data provider = Provider.of<Data>(context);
     double widthScreen = MediaQuery.of(context).size.width;
 
     if (priorityController.text == "") {
@@ -124,12 +123,12 @@ class _TaskPageState extends State<TaskPage> {
       body: CustomScrollView(
         slivers: [
           SliverAppBar(
-            backgroundColor: const Color(0xfff7f6f2),
+            backgroundColor: Theme.of(context).appBarTheme.backgroundColor,
             pinned: true,
             leading: Builder(
               builder: (BuildContext context) {
                 return IconButton(
-                  color: Colors.black,
+                  color: Theme.of(context).secondaryHeaderColor,
                   icon: const Icon(Icons.close),
                   onPressed: () {
                     MyLogger.instance.mes('Editing page is closed');
@@ -148,12 +147,12 @@ class _TaskPageState extends State<TaskPage> {
                     });
                     if (!_emptyText) {
                       if (widget._task == null) {
-                        provider.addTask(inputController.text, false, _priority,
-                            _selectedDate);
+                        context.read<Prov>().addTask(inputController.text,
+                            false, _priority, _selectedDate);
                         Navigator.pop(context);
                       } else {
-                        provider.changeTask(widget._task!, inputController.text,
-                            _priority, _selectedDate);
+                        context.read<Prov>().changeTask(widget._task!,
+                            inputController.text, _priority, _selectedDate);
                         Navigator.pop(context);
                       }
                     }
@@ -340,7 +339,7 @@ class _TaskPageState extends State<TaskPage> {
                       child: TextButton(
                         onPressed: () {
                           if (_isButtonDisabled) return;
-                          provider.deleteTask(widget._task!.id);
+                          context.read<Prov>().deleteTask(widget._task!.id);
                           Navigator.pop(context);
                         },
                         child: Row(
