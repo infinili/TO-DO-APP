@@ -98,7 +98,6 @@ class _TaskTileState extends State<TaskTile> {
                                   (states) => (!_isChecked)
                                       ? BorderSide(
                                           width: 2.2,
-                                          //color: Color.fromRGBO(252, 33, 37, 1))
                                           color: usePurpleColor
                                               ? const Color(0xff793cd8)
                                               : const Color.fromRGBO(
@@ -180,7 +179,7 @@ class _TaskTileState extends State<TaskTile> {
                     child: Padding(
                       padding: const EdgeInsets.only(top: 3),
                       child: Text(
-                        widget._task.title!,
+                        widget._task.title,
                         style: TextStyle(
                           color: (_isChecked)
                               ? Theme.of(context).textTheme.bodySmall!.color
@@ -204,7 +203,7 @@ class _TaskTileState extends State<TaskTile> {
                           const VisualDensity(horizontal: 0, vertical: -4),
                       contentPadding: const EdgeInsets.all(0),
                       title: Text(
-                        widget._task.title!,
+                        widget._task.title,
                         style: TextStyle(
                           color: (_isChecked)
                               ? Theme.of(context).textTheme.bodySmall!.color

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:untitled/app/di.dart';
 import 'package:untitled/data/task.dart';
 import 'package:untitled/generated/l10n.dart';
 import 'package:untitled/pages/home_page/home_provider.dart';

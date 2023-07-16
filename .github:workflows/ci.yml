@@ -1,0 +1,37 @@
+name: CI
+
+on: [push, workflow_dispatch, pull_request]
+
+jobs:
+  android:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Install java
+        uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: "12.x"
+
+      - name: Setup Dart
+        uses: dart-lang/setup-dart@v1
+        with:
+          sdk: dev
+          
+      - name: Install Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: 'stable'
+
+      - name: Download dependencies
+        run: flutter pub get
+
+      - name: Formatting code
+        run: dart format lib
+
+      - name: Unit tests
+        run: flutter test
+
+      - name: Run flutter lints
+        run: flutter analyze
