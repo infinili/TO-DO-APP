@@ -7,8 +7,10 @@ import 'package:untitled/pages/home_page/home_provider.dart';
 import 'package:untitled/provider/provider.dart';
 import 'package:untitled/theme/theme.dart';
 import 'pages/home_page/homepage.dart';
+import 'package:untitled/app/di.dart';
 
-void main() {
+Future<void> main() async{
+  await Loc.init();
   runApp(const MyApp());
 }
 

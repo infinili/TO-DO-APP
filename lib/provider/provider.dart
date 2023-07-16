@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:untitled/data/database.dart';
 import 'package:untitled/model/model.dart';
 import 'package:untitled/data/task.dart';
-import 'package:untitled/logger/logger.dart';
+import 'package:untitled/app/logger.dart';
 
 class Prov with ChangeNotifier {
   Model? _model;

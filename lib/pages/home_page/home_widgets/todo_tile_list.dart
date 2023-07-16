@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:untitled/app/di.dart';
 import 'package:untitled/data/task.dart';
 import 'package:untitled/generated/l10n.dart';
 import 'package:untitled/pages/task_page/taskpage.dart';
@@ -18,6 +19,8 @@ class TaskTile extends StatefulWidget {
 }
 
 class _TaskTileState extends State<TaskTile> {
+  final configRepository = Loc.configRepository;
+
   bool _isChecked = false;
 
   String convertDateTime(DateTime dt) {
@@ -41,6 +44,8 @@ class _TaskTileState extends State<TaskTile> {
   @override
   Widget build(BuildContext context) {
     _isChecked = widget._task.completed;
+
+    final usePurpleColor = configRepository.usePurpleColor;
 
     return Padding(
       padding: const EdgeInsets.only(top: 10),
@@ -82,16 +87,22 @@ class _TaskTileState extends State<TaskTile> {
                         width: 18,
                         height: 18,
                         child: Material(
-                            color: const Color.fromRGBO(254, 216, 214, 1),
+                            color: usePurpleColor
+                                ? const Color(0xffdecbfc)
+                                : const Color.fromRGBO(254, 216, 214, 1),
                             child: Checkbox(
                               value: _isChecked,
                               checkColor: Colors.white,
                               activeColor: Colors.green,
                               side: MaterialStateBorderSide.resolveWith(
                                   (states) => (!_isChecked)
-                                      ? const BorderSide(
+                                      ? BorderSide(
                                           width: 2.2,
-                                          color: Color.fromRGBO(252, 33, 37, 1))
+                                          //color: Color.fromRGBO(252, 33, 37, 1))
+                                          color: usePurpleColor
+                                              ? const Color(0xff793cd8)
+                                              : const Color.fromRGBO(
+                                                  252, 33, 37, 1))
                                       : const BorderSide(
                                           width: 2.2,
                                           color: Color.fromRGBO(0, 0, 0, 0))),
@@ -144,13 +155,15 @@ class _TaskTileState extends State<TaskTile> {
                       ),
                     ),
                   ),
-            (widget._task.priority == S.of(context)!.high)
-                ? const Padding(
-                    padding: EdgeInsets.only(top: 5, right: 2),
+            (widget._task.priority == "important")
+                ? Padding(
+                    padding: const EdgeInsets.only(top: 5, right: 2),
                     child: Text(
                       '!!',
                       style: TextStyle(
-                        color: Colors.red,
+                        color: usePurpleColor
+                            ? const Color(0xff793cd8)
+                            : Colors.red,
                         fontWeight: FontWeight.bold,
                         fontSize: 20,
                       ),

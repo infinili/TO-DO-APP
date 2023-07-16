@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:untitled/data/task.dart';
 import 'package:untitled/generated/l10n.dart';
-import 'package:untitled/logger/logger.dart';
+import 'package:untitled/app/logger.dart';
 import 'package:untitled/provider/provider.dart';
 
 class TaskPage extends StatefulWidget {

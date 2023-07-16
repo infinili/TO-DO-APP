@@ -20,7 +20,10 @@ dependencies:
   shared_preferences: ^2.1.2
   dio: ^5.2.1
   uuid: ^3.0.7
-  firebase_core: ^2.14.0
+  get_it: ^7.6.0
+  firebase_core: ^2.15.0
+  firebase_crashlytics: ^3.3.3
+  firebase_remote_config: ^4.2.3
 
 dev_dependencies:
   flutter_test:
