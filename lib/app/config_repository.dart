@@ -1,7 +1,7 @@
 import 'package:firebase_remote_config/firebase_remote_config.dart';
 
 class ConfigRepository {
-  FirebaseRemoteConfig _remoteConfig;
+  final FirebaseRemoteConfig _remoteConfig;
 
   ConfigRepository(this._remoteConfig);
 

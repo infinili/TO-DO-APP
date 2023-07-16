@@ -9,7 +9,6 @@ class Model {
   late DataBase _localDatabase;
   int _lastId = 0;
   int _count = 0;
-  bool _showAll = false;
   int _completedCnt = 0;
 
   int get count => _count;
@@ -17,12 +16,6 @@ class Model {
   List<Task> get tasks => _tasks;
 
   int get completedCnt => _completedCnt;
-
-  bool get showAll => _showAll;
-
-  set showAll(bool value) {
-    _showAll = value;
-  }
 
   Future<void> init() async {
     _localDatabase = DataBase();
@@ -33,8 +26,7 @@ class Model {
     int compcCount = 0;
     List<Task> tmp = [];
     if (jsonTasks != null) {
-      _tasks = jsonTasks.map((e) => Task.fromJson(json.decode(e))).toList()
-          as List<Task>;
+      _tasks = jsonTasks.map((e) => Task.fromJson(json.decode(e))).toList();
       cnt = _tasks.length;
       for (int i = 0; i < _tasks.length; i++) {
         tmp.add(Task.fromJson(json.decode(jsonTasks[i])));
