@@ -3,7 +3,7 @@ description: A new To Do App.
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.0.0 <4.0.0'
+  sdk: '>=3.0.5 <4.0.0'
 
 dependencies:
   flutter:
@@ -24,6 +24,7 @@ dependencies:
   firebase_core: ^2.15.0
   firebase_crashlytics: ^3.3.3
   firebase_remote_config: ^4.2.3
+  firebase_analytics: ^10.4.3
 
 dev_dependencies:
   flutter_test:

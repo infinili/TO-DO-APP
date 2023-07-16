@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
+import 'package:untitled/app/di.dart';
 import 'package:untitled/data/task.dart';
 import 'package:untitled/generated/l10n.dart';
 import 'package:untitled/pages/home_page/home_provider.dart';
@@ -17,7 +18,6 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   final _scrollController = ScrollController();
-  //bool _showAll = false;
 
   @override
   void dispose() {
@@ -103,7 +103,7 @@ class _MainListState extends State<MainList> {
   Widget build(BuildContext context) {
     return Column(
       children: generateList(context.watch<Prov>().getTasks,
-          context.watch<Prov>().getCount, S.of(context)!.neww, context),
+          context.watch<Prov>().getCount, S.of(context).neww, context),
     );
   }
 }
