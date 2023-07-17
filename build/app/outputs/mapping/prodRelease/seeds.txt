@@ -1,0 +1,1962 @@
+androidx.lifecycle.SingleGeneratedAdapterObserver
+androidx.window.layout.DisplayCompatHelperApi17
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl
+androidx.window.embedding.SplitPairRule
+androidx.activity.OnBackPressedDispatcher$LifecycleOnBackPressedCancellable
+androidx.window.core.Bounds
+androidx.window.R
+androidx.window.embedding.SplitPairFilter
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1
+com.google.android.gms.common.internal.ReflectedParcelable
+android.support.v4.graphics.drawable.IconCompatParcelizer
+com.google.android.gms.common.annotation.KeepName
+androidx.window.R$id
+com.google.android.gms.common.api.internal.LifecycleCallback
+com.google.android.gms.common.api.Scope
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor
+androidx.window.layout.SidecarCompat$TranslatingCallback
+androidx.window.layout.HardwareFoldingFeature$Type$Companion
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter
+com.google.firebase.components.ComponentDiscoveryService
+androidx.window.layout.WindowMetricsCalculator
+androidx.window.layout.SidecarCompat$FirstAttachAdapter
+com.google.android.datatransport.cct.CctBackendFactory
+androidx.window.layout.SidecarCompat
+androidx.versionedparcelable.ParcelImpl
+com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver
+androidx.window.layout.ActivityCompatHelperApi24
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl
+androidx.core.graphics.drawable.IconCompatParcelizer
+androidx.window.embedding.SplitController
+com.google.firebase.concurrent.ExecutorsRegistrar
+io.flutter.plugins.firebase.crashlytics.FirebaseCrashlyticsTestCrash
+io.flutter.plugins.firebase.crashlytics.FlutterError
+androidx.window.embedding.ActivityStack
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1
+com.google.android.datatransport.runtime.backends.TransportBackendDiscovery
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback
+androidx.activity.ComponentActivity$2
+androidx.window.core.Version$bigInteger$2
+androidx.window.layout.WindowInfoTracker$Companion
+androidx.window.layout.WindowInfoTracker
+androidx.window.layout.FoldingFeature$OcclusionType$Companion
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback
+androidx.window.layout.FoldingFeature$Orientation
+androidx.window.embedding.SplitRuleParser
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty
+androidx.lifecycle.FullLifecycleObserverAdapter
+androidx.window.layout.FoldingFeature$Orientation$Companion
+com.google.android.gms.measurement.AppMeasurementReceiver
+io.flutter.embedding.engine.FlutterOverlaySurface
+com.google.android.gms.measurement.AppMeasurementService
+androidx.window.layout.HardwareFoldingFeature
+io.flutter.view.AccessibilityViewEmbedder
+androidx.window.embedding.MatcherUtils
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface
+androidx.window.layout.DisplayCompatHelperApi28
+kotlinx.coroutines.internal.StackTraceRecoveryKt
+kotlin.internal.jdk8.JDK8PlatformImplementations
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface
+androidx.window.layout.SidecarAdapter
+com.google.firebase.analytics.FirebaseAnalytics
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService
+com.example.untitled.MainActivity
+com.google.android.gms.common.util.DynamiteApi
+androidx.window.layout.ActivityCompatHelperApi30
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+androidx.window.core.ExperimentalWindowApi
+androidx.window.embedding.SplitRule
+androidx.window.layout.HardwareFoldingFeature$Type
+androidx.window.embedding.ExtensionEmbeddingBackend
+androidx.window.embedding.EmbeddingTranslatingCallback
+androidx.core.app.RemoteActionCompat
+androidx.window.layout.FoldingFeature$OcclusionType
+androidx.annotation.Keep
+androidx.window.embedding.SplitRule$Api30Impl
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin
+io.flutter.plugins.GeneratedPluginRegistrant
+com.google.android.gms.common.GooglePlayServicesManifestException
+androidx.window.embedding.SplitPlaceholderRule
+androidx.window.layout.WindowMetrics
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer
+com.google.firebase.FirebaseCommonRegistrar
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference
+kotlinx.coroutines.android.AndroidDispatcherFactory
+androidx.window.layout.WindowBackend
+androidx.lifecycle.ReflectiveGenericLifecycleObserver
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper
+com.google.firebase.sessions.FirebaseSessionsRegistrar
+androidx.window.embedding.EmbeddingRule
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1
+androidx.lifecycle.LiveData$LifecycleBoundObserver
+androidx.window.embedding.EmbeddingCompat
+androidx.window.embedding.EmptyEmbeddingComponent
+androidx.window.embedding.ActivityFilter
+androidx.window.R$styleable
+androidx.core.app.CoreComponentFactory
+io.flutter.embedding.android.FlutterSplashView$SavedState
+androidx.window.R$attr
+com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService
+com.google.firebase.components.ComponentRegistrar
+androidx.lifecycle.CompositeGeneratedAdaptersObserver
+androidx.window.layout.DisplayFeature
+io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper
+androidx.savedstate.Recreator
+androidx.window.embedding.EmbeddingInterfaceCompat
+androidx.window.embedding.EmbeddingAdapter
+androidx.window.embedding.SplitRule$LayoutDir
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry
+com.google.firebase.crashlytics.CrashlyticsRegistrar
+androidx.window.layout.SidecarWindowBackend$Companion
+androidx.versionedparcelable.CustomVersionedParcelable
+androidx.window.core.Version
+androidx.window.core.Version$Companion
+androidx.window.layout.SidecarWindowBackend
+androidx.window.embedding.SplitController$Companion
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException
+com.google.firebase.ktx.FirebaseCommonKtxRegistrar
+androidx.window.layout.WindowMetricsCalculatorCompat
+androidx.activity.ImmLeaksCleaner
+androidx.window.embedding.ActivityRule
+androidx.savedstate.SavedStateRegistry$1
+androidx.window.layout.SidecarCompat$Companion
+androidx.core.app.RemoteActionCompatParcelizer
+com.google.android.gms.measurement.AppMeasurement
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1
+androidx.window.embedding.SplitInfo
+androidx.window.layout.WindowLayoutInfo
+androidx.window.layout.EmptyDecorator
+android.support.v4.app.RemoteActionCompatParcelizer
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack
+androidx.window.layout.WindowMetricsCalculator$Companion
+io.flutter.embedding.engine.FlutterJNI
+androidx.window.layout.FoldingFeature
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback
+androidx.window.layout.HardwareFoldingFeature$Companion
+androidx.window.layout.WindowInfoTrackerDecorator
+io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar
+androidx.lifecycle.Lifecycling$1
+androidx.window.layout.WindowInfoTrackerImpl
+androidx.window.layout.SidecarCompat$DistinctElementCallback
+com.google.firebase.installations.FirebaseInstallationsRegistrar
+androidx.window.layout.FoldingFeature$State
+androidx.window.layout.ExtensionInterfaceCompat
+com.google.android.gms.measurement.AppMeasurementJobService
+androidx.activity.ComponentActivity$3
+com.google.firebase.datatransport.TransportRegistrar
+androidx.window.embedding.EmbeddingBackend
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+androidx.window.layout.FoldingFeature$State$Companion
+com.google.firebase.provider.FirebaseInitProvider
+androidx.window.java.R
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1
+kotlin.internal.jdk7.JDK7PlatformImplementations
+androidx.window.layout.WindowInfoTrackerImpl$Companion
+com.google.firebase.remoteconfig.RemoteConfigRegistrar
+com.google.firebase.abt.component.AbtRegistrar
+androidx.window.layout.WindowMetricsCalculatorDecorator
+io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar
+io.flutter.plugin.platform.SingleViewPresentation
+com.google.android.gms.common.GooglePlayServicesIncorrectManifestValueException
+androidx.window.layout.ExtensionWindowLayoutInfoBackend
+androidx.window.embedding.EmbeddingCompat$Companion
+io.flutter.view.FlutterCallbackInformation
+androidx.fragment.app.Fragment$2
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion
+kotlin.coroutines.jvm.internal.BaseContinuationImpl
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper
+com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient
+androidx.core.graphics.drawable.IconCompat
+androidx.window.layout.SidecarAdapter$Companion
+androidx.window.layout.SidecarCompat$DistinctElementCallback: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface callbackInterface
+androidx.datastore.preferences.PreferencesProto$Value: int valueCase_
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_ANY
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map originToFlutterId
+com.google.android.gms.internal.measurement.zzem: int zzd
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map listenerToActivity
+androidx.window.R$styleable: int ActivityFilter_activityName
+androidx.window.core.Bounds: int left
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_DESTROY
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mAppId
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTimeToLive
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackName
+io.flutter.embedding.engine.FlutterOverlaySurface: int id
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzli zzn
+com.google.android.gms.internal.measurement.zzfp: int zze
+androidx.window.embedding.MatcherUtils: java.lang.String sMatchersTag
+io.flutter.embedding.engine.FlutterJNI: boolean initCalled
+com.google.android.gms.internal.measurement.zzgt: com.google.android.gms.internal.measurement.zzli zze
+com.google.android.gms.internal.measurement.zzey: com.google.android.gms.internal.measurement.zzey zza
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetricsCalculatorCompat INSTANCE
+com.google.android.gms.internal.measurement.zzfh: java.lang.String zze
+com.google.android.gms.internal.measurement.zzfb: boolean zzg
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.sessions.FirebaseSessionsRegistrar$Companion Companion
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext _context
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinSmallestWidth
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzW
+androidx.window.R$id: int androidx_window_activity_scope
+io.flutter.view.AccessibilityViewEmbedder: java.util.Map embeddedViewToDisplayBounds
+com.google.android.gms.internal.measurement.zzgd: int zzI
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: java.util.Map registeredPlugins
+com.google.android.gms.measurement.internal.zzas: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgd: boolean zzab
+com.google.android.gms.internal.measurement.zzgb: com.google.android.gms.internal.measurement.zzgb zza
+com.google.android.gms.internal.measurement.zzgt: int zzd
+com.google.android.gms.internal.measurement.zzgy: com.google.android.gms.internal.measurement.zzli zzf
+kotlinx.coroutines.flow.StateFlowSlot: java.lang.Object _state
+kotlinx.coroutines.android.HandlerContext: kotlinx.coroutines.android.HandlerContext _immediate
+com.google.android.gms.internal.measurement.zzei: int zzd
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: java.util.concurrent.ExecutorService cachedThreadPool
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _queue
+androidx.window.R$attr: int finishSecondaryWithPrimary
+io.flutter.view.AccessibilityViewEmbedder: android.util.SparseArray flutterIdToOrigin
+com.google.android.gms.internal.measurement.zzet: boolean zzj
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mOrigin
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.localization.LocalizationPlugin localizationPlugin
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTrackerDecorator decorator
+androidx.window.embedding.SplitController: boolean sDebug
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArraySet splitRules
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzli zzae
+com.google.android.gms.internal.measurement.zzgm: long zzh
+com.google.android.gms.internal.measurement.zzek: int zze
+androidx.window.R$attr: int placeholderActivityName
+com.google.android.gms.internal.measurement.zzfz: java.lang.String zzf
+androidx.window.core.Bounds: int right
+androidx.window.R$attr: int activityAction
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer callback
+com.google.android.gms.internal.measurement.zzey: boolean zzg
+io.flutter.view.AccessibilityViewEmbedder: java.lang.String TAG
+kotlin.jvm.internal.CallableReference: java.lang.Object NO_RECEIVER
+androidx.window.layout.WindowInfoTracker$Companion: boolean DEBUG
+androidx.window.embedding.SplitPairRule: boolean clearTop
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate asyncWaitForVsyncDelegate
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat windowExtension
+com.google.android.gms.internal.measurement.zzfx: com.google.android.gms.internal.measurement.zzli zzj
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggeredEventName
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: androidx.window.embedding.ExtensionEmbeddingBackend this$0
+io.flutter.embedding.engine.FlutterJNI: float refreshRateFPS
+com.google.android.gms.internal.measurement.zzek: java.lang.String zzf
+io.flutter.plugin.platform.SingleViewPresentation: android.widget.FrameLayout container
+androidx.window.embedding.ActivityFilter: java.lang.String intentAction
+com.google.android.gms.internal.measurement.zzfz: java.lang.String zze
+com.google.android.gms.internal.measurement.zzet: boolean zzh
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: androidx.core.util.Consumer $consumer$inlined
+com.google.android.gms.internal.measurement.zzgm: java.lang.String zzg
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingAdapter adapter
+com.google.android.gms.internal.measurement.zzfp: com.google.android.gms.internal.measurement.zzgi zzg
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Listener listeners
+androidx.window.embedding.EmbeddingCompat: boolean DEBUG
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController globalInstance
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarCompat$Companion Companion
+com.google.android.gms.common.internal.zzj: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzey: int zze
+com.google.android.gms.internal.measurement.zzfj: java.lang.String zze
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type HINGE
+com.google.android.gms.internal.measurement.zzek: boolean zzj
+com.google.android.gms.internal.measurement.zzek: boolean zzl
+com.google.android.gms.internal.measurement.zzfh: int zzd
+com.google.android.gms.internal.measurement.zzet: com.google.android.gms.internal.measurement.zzet zza
+kotlinx.coroutines.JobSupport: java.lang.Object _state
+com.google.android.gms.internal.measurement.zzgd: long zzx
+kotlinx.coroutines.CancellableContinuationImpl: java.lang.Object _state
+com.google.android.gms.internal.measurement.zzfj: int zzd
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl splitInfoEmbeddingCallback
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTriggerEventName
+io.flutter.embedding.engine.FlutterJNI: android.os.Looper mainLooper
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzaa
+com.google.android.gms.internal.measurement.zzft: long zzh
+com.google.android.gms.measurement.internal.zzau: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: java.lang.Object nextParkedWorker
+com.google.android.gms.internal.measurement.zzem: java.lang.String zzh
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzgd zzd
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _removedRef
+androidx.window.layout.SidecarWindowBackend: java.lang.String TAG
+kotlinx.coroutines.EventLoopImplBase$DelayedTask: java.lang.Object _heap
+com.google.android.gms.internal.measurement.zzfx: int zzd
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.protobuf.Parser PARSER
+androidx.window.core.Version: androidx.window.core.Version VERSION_1_0
+androidx.window.R$id: int rtl
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarDeviceState lastDeviceState
+kotlinx.coroutines.scheduling.WorkQueue: int consumerIndex
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] $VALUES
+com.google.firebase.sessions.FirebaseSessionsRegistrar: java.lang.String LIBRARY_NAME
+com.google.android.gms.internal.measurement.zzfv: com.google.android.gms.internal.measurement.zzfv zza
+kotlinx.coroutines.sync.MutexImpl: java.lang.Object _state
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int workerCtl
+com.google.android.gms.internal.measurement.zzer: com.google.android.gms.internal.measurement.zzer zza
+com.google.android.gms.internal.measurement.zzgd: int zze
+com.google.android.gms.common.zzq: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set filters
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mExpiredEventName
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzli zzi
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean released
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.dart.PlatformMessageHandler platformMessageHandler
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_CREATE
+com.google.android.gms.internal.measurement.zzgy: boolean zzi
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture
+com.google.android.gms.internal.measurement.zzgi: com.google.android.gms.internal.measurement.zzlh zzd
+androidx.datastore.preferences.PreferencesProto$Value: androidx.datastore.preferences.PreferencesProto$Value DEFAULT_INSTANCE
+androidx.window.embedding.SplitRule$Api30Impl: androidx.window.embedding.SplitRule$Api30Impl INSTANCE
+androidx.window.core.Version: kotlin.Lazy bigInteger$delegate
+com.google.android.gms.internal.measurement.zzfj: com.google.android.gms.internal.measurement.zzfj zza
+com.google.android.gms.internal.measurement.zzgg: com.google.android.gms.internal.measurement.zzli zzf
+androidx.window.core.Version: int major
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager deferredComponentManager
+androidx.window.R$styleable: int SplitPairRule_finishSecondaryWithPrimary
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.Object mValue
+androidx.versionedparcelable.ParcelImpl: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzgg zzS
+com.google.android.gms.internal.measurement.zzgp: com.google.android.gms.internal.measurement.zzgp zza
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.PreferencesProto$StringSet DEFAULT_INSTANCE
+androidx.window.R$styleable: int[] SplitPlaceholderRule
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zze
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: int PREFERENCES_FIELD_NUMBER
+androidx.datastore.preferences.PreferencesProto$Value: int bitField0_
+com.google.android.gms.internal.measurement.zzff: long zze
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: androidx.window.layout.WindowLayoutInfo lastKnownValue
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String description
+androidx.window.core.Version: androidx.window.core.Version VERSION_0_1
+androidx.window.embedding.SplitRule: int minWidth
+com.google.android.gms.internal.measurement.zzfv: long zzf
+com.google.android.gms.internal.measurement.zzgy: int zze
+com.google.android.gms.internal.measurement.zzgk: int zze
+kotlinx.coroutines.sync.MutexImpl$LockWaiter: int isTaken
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int overlayInsetTypes
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.AccessibilityEventsDelegate accessibilityEventsDelegate
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter sidecarAdapter
+kotlin.jvm.internal.FunctionReference: int arity
+kotlinx.coroutines.scheduling.WorkQueue: java.lang.Object lastScheduledTask
+com.google.android.gms.internal.measurement.zzet: com.google.android.gms.internal.measurement.zzem zzg
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_RESUME
+com.google.android.gms.internal.measurement.zzlb: com.google.android.gms.internal.measurement.zznl zzc
+androidx.window.layout.SidecarAdapter: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzgd: int zzQ
+com.google.android.gms.internal.measurement.zzfz: com.google.android.gms.internal.measurement.zzfz zza
+kotlinx.coroutines.channels.AbstractSendChannel: java.lang.Object onCloseHandler
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend globalInstance
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackClassName
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation HORIZONTAL
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.components.Qualified blockingDispatcher
+io.flutter.plugin.platform.SingleViewPresentation: int viewId
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.Map activityToListeners
+com.google.android.gms.internal.measurement.zzgg: com.google.android.gms.internal.measurement.zzgg zza
+com.google.android.gms.internal.measurement.zzjk: int zzb
+io.flutter.view.AccessibilityViewEmbedder: android.view.View rootAccessibilityView
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock globalLock
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation$Companion Companion
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzaf
+com.google.android.gms.internal.measurement.zzei: com.google.android.gms.internal.measurement.zzei zza
+com.google.android.gms.internal.measurement.zzfr: int zze
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzj
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Parser PARSER
+io.flutter.embedding.engine.FlutterJNI: java.lang.String TAG
+androidx.window.layout.SidecarAdapter: androidx.window.layout.SidecarAdapter$Companion Companion
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List lastInfo
+androidx.window.R$attr: int clearTop
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View view
+kotlinx.coroutines.android.AndroidExceptionPreHandler: java.lang.Object _preHandler
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName primaryActivityName
+androidx.window.R$styleable: int SplitPlaceholderRule_splitLayoutDirection
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzr
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator$Companion $$INSTANCE
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: int MODULE_VERSION
+androidx.window.R$styleable: int SplitPlaceholderRule_placeholderActivityName
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate accessibilityDelegate
+com.google.android.gms.internal.measurement.zzgy: java.lang.String zzh
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_FIELD_NUMBER
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Companion Companion
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.R$styleable: int ActivityRule_alwaysExpand
+com.google.android.gms.internal.measurement.zzek: boolean zzh
+com.google.android.gms.internal.measurement.zzgk: com.google.android.gms.internal.measurement.zzlh zzf
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzg
+kotlinx.coroutines.DefaultExecutor: java.lang.Thread _thread
+com.google.android.gms.internal.measurement.zzgg: int zze
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState state
+com.google.android.gms.measurement.internal.zzac: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgd: long zzB
+com.google.android.gms.internal.measurement.zzei: com.google.android.gms.internal.measurement.zzli zzg
+kotlinx.coroutines.CompletedExceptionally: int _handled
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State state
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: android.app.Activity activity
+kotlinx.coroutines.JobSupport: java.lang.Object _parentHandle
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzli zzi
+com.google.android.gms.internal.measurement.zzgd: int zzg
+androidx.window.core.Bounds: int top
+com.google.android.gms.internal.measurement.zzer: int zze
+androidx.window.R$styleable: int SplitPairRule_finishPrimaryWithSecondary
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.Parser PARSER
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.protobuf.MapFieldLite preferences_
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlinx.coroutines.flow.Flow $flow
+com.google.android.gms.internal.measurement.zzgd: long zzag
+io.flutter.embedding.engine.FlutterJNI: java.lang.Long nativeShellHolderId
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzy
+androidx.window.R$attr: int splitRatio
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker$Companion $$INSTANCE
+com.google.android.gms.internal.measurement.zzek: com.google.android.gms.internal.measurement.zzek zza
+com.google.android.gms.internal.measurement.zzft: java.lang.String zzf
+kotlinx.coroutines.internal.ResizableAtomicArray: java.util.concurrent.atomic.AtomicReferenceArray array
+kotlinx.coroutines.CancelledContinuation: int _resumed
+com.google.android.gms.internal.measurement.zzgy: java.lang.String zzg
+com.google.android.gms.internal.measurement.zzer: int zzd
+androidx.datastore.preferences.PreferencesProto$Value: java.lang.Object value_
+com.google.android.gms.internal.measurement.zzfz: int zzd
+androidx.window.embedding.SplitPairFilter: java.lang.String secondaryActivityIntentAction
+com.google.android.gms.internal.measurement.zzfb: int zzd
+androidx.window.layout.SidecarWindowBackend: boolean DEBUG
+androidx.window.layout.SidecarCompat: java.util.Map componentCallbackMap
+com.google.android.gms.internal.measurement.zzgd: long zzl
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.components.Qualified backgroundDispatcher
+com.google.android.gms.internal.measurement.zzek: int zzd
+com.google.android.gms.internal.measurement.zzgd: int zzs
+kotlinx.coroutines.internal.ThreadSafeHeap: int _size
+com.google.android.gms.internal.measurement.zzem: com.google.android.gms.internal.measurement.zzer zzf
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface surface
+com.google.android.gms.internal.measurement.zzff: int zzg
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.concurrent.locks.ReentrantLock lock
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: java.util.WeakHashMap mActivityWindowLayoutInfo
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle lifecycle
+kotlinx.coroutines.JobSupport$Finishing: int _isCompleting
+kotlinx.coroutines.InvokeOnCancelling: int _invoked
+androidx.window.core.Version: int patch
+com.google.android.gms.internal.measurement.zzfd: int zzd
+com.google.android.gms.common.internal.RootTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: androidx.window.layout.SidecarCompat this$0
+com.google.android.gms.measurement.internal.zzq: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgm: float zzi
+androidx.window.embedding.SplitRule: int minSmallestWidth
+com.google.android.gms.internal.measurement.zzgi: com.google.android.gms.internal.measurement.zzli zzg
+io.flutter.view.AccessibilityViewEmbedder: int nextFlutterId
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type type
+androidx.window.R$styleable: int SplitPlaceholderRule_splitRatio
+kotlin.jvm.internal.CallableReference: boolean isTopLevel
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.concurrent.Executor executor
+com.google.android.gms.internal.measurement.zzey: int zzd
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzfz zzac
+androidx.window.R$attr: int secondaryActivityName
+androidx.window.embedding.ActivityRule: java.util.Set filters
+com.google.android.gms.internal.measurement.zzem: boolean zzg
+com.google.android.gms.internal.measurement.zzgd: boolean zzZ
+com.google.android.gms.internal.measurement.zzfx: long zzg
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzp
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingCompat$Companion Companion
+com.google.android.gms.internal.measurement.zzgd: int zzC
+androidx.window.R$styleable: int SplitPairRule_splitMinSmallestWidth
+com.google.firebase.remoteconfig.RemoteConfigRegistrar: java.lang.String LIBRARY_NAME
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzH
+kotlinx.coroutines.EventLoopImplBase: java.lang.Object _delayed
+kotlinx.coroutines.android.HandlerDispatcherKt: android.view.Choreographer choreographer
+androidx.window.embedding.MatcherUtils: androidx.window.embedding.MatcherUtils INSTANCE
+androidx.window.core.Bounds: int bottom
+com.google.android.gms.internal.measurement.zzgy: com.google.android.gms.internal.measurement.zzgy zza
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend$Companion Companion
+com.google.android.gms.internal.measurement.zzfp: int zzd
+androidx.window.R$styleable: int SplitPairRule_splitLayoutDirection
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType NONE
+io.flutter.plugin.platform.SingleViewPresentation: android.view.View$OnFocusChangeListener focusChangeListener
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean animating
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: java.util.concurrent.Executor executor
+com.google.android.gms.internal.measurement.zzfb: com.google.android.gms.internal.measurement.zzfb zza
+com.google.android.gms.internal.measurement.zzfd: com.google.android.gms.internal.measurement.zzfd zza
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzA
+androidx.window.R$id: int ltr
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$1
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat embeddingExtension
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityAction
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend$Companion Companion
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: boolean attached
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int deferredInsetTypes
+androidx.window.embedding.EmbeddingCompat: androidx.window.embedding.EmbeddingAdapter adapter
+com.google.android.gms.internal.measurement.zzft: long zzg
+com.google.android.gms.internal.measurement.zzgy: int zzd
+com.google.android.gms.common.internal.ConnectionTelemetryConfiguration: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.sidecar.SidecarInterface$SidecarCallback callbackInterface
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: androidx.window.layout.WindowInfoTracker tracker
+androidx.window.embedding.EmbeddingTranslatingCallback: androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface callback
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: java.util.concurrent.locks.ReentrantLock extensionWindowBackendLock
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: java.lang.String MODULE_ID
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType FULL
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets lastWindowInsets
+com.google.android.gms.internal.measurement.zzer: java.lang.String zzg
+androidx.datastore.preferences.PreferencesProto$Value: int INTEGER_FIELD_NUMBER
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_STOP
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String description
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTriggeredEventParams
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: java.lang.Runnable onFrameConsumed
+com.google.android.gms.internal.measurement.zzfb: com.google.android.gms.internal.measurement.zzli zzf
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.components.Qualified firebaseApp
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: androidx.concurrent.futures.AbstractResolvableFuture$Waiter next
+androidx.window.embedding.ActivityStack: java.util.List activities
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo lastInfo
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock globalLock
+com.google.android.gms.internal.measurement.zzfr: long zzf
+androidx.window.R$styleable: int SplitPairFilter_secondaryActivityName
+kotlinx.coroutines.EventLoopImplBase: int _isCompleted
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$2
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzv
+com.google.firebase.installations.FirebaseInstallationsRegistrar: java.lang.String LIBRARY_NAME
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: android.app.Activity activity
+androidx.window.core.Version: java.lang.String VERSION_PATTERN_STRING
+androidx.window.layout.WindowMetricsCalculatorCompat: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzO
+androidx.window.R$styleable: int[] ActivityFilter
+com.google.android.gms.internal.measurement.zzgd: int zza
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzi
+kotlinx.coroutines.channels.ArrayChannel: int size
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface sidecar
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack secondaryActivityStack
+androidx.window.layout.SidecarCompat$DistinctElementCallback: java.util.WeakHashMap activityWindowLayoutInfo
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1 INSTANCE
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: java.lang.ClassLoader sClassLoader
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzff zza
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzu
+com.google.android.gms.common.internal.GetServiceRequest: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.ActivityStack: boolean isEmpty
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mCreationTimestamp
+com.google.android.gms.internal.measurement.zzei: com.google.android.gms.internal.measurement.zzli zzf
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzh
+com.google.android.gms.internal.measurement.zzfd: java.lang.String zze
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State FLAT
+com.google.android.gms.internal.measurement.zzft: com.google.android.gms.internal.measurement.zzli zze
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Parcelable$Creator CREATOR
+androidx.window.embedding.SplitInfo: float splitRatio
+kotlin.jvm.internal.CallableReference: java.lang.String signature
+androidx.window.embedding.EmbeddingCompat: java.lang.String TAG
+com.google.android.gms.common.ConnectionResult: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzgd: long zzN
+com.google.android.gms.common.zzo: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.internal.measurement.zzft: com.google.android.gms.internal.measurement.zzft zza
+com.google.android.gms.internal.measurement.zzgi: com.google.android.gms.internal.measurement.zzlh zze
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List finalClippingPaths
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: androidx.datastore.preferences.protobuf.UnknownFieldSetLite unknownFields
+androidx.window.R$attr: int activityName
+io.flutter.embedding.engine.FlutterJNI: java.util.Set flutterUiDisplayListeners
+androidx.datastore.preferences.PreferencesProto$Value: int FLOAT_FIELD_NUMBER
+androidx.window.layout.WindowInfoTrackerImpl: int BUFFER_CAPACITY
+com.google.android.gms.internal.measurement.zzfx: java.lang.String zzf
+io.flutter.view.AccessibilityViewEmbedder: io.flutter.view.AccessibilityViewEmbedder$ReflectionAccessors reflectionAccessors
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_START
+com.google.android.gms.common.Feature: android.os.Parcelable$Creator CREATOR
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowInfoTrackerImpl$Companion Companion
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$InsetsListener insetsListener
+com.google.android.gms.internal.measurement.zzfd: boolean zzf
+com.google.android.gms.internal.measurement.zzgp: com.google.android.gms.internal.measurement.zzli zzd
+io.flutter.plugins.GeneratedPluginRegistrant: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzfj: java.lang.String zzf
+com.google.android.gms.internal.measurement.zzfz: com.google.android.gms.internal.measurement.zzfn zzg
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: int memoizedSerializedSize
+com.google.android.gms.internal.measurement.zzgm: long zze
+androidx.window.R$styleable: int SplitPairFilter_primaryActivityName
+androidx.window.R$attr: int splitLayoutDirection
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer callback
+com.google.android.gms.internal.measurement.zzfn: int zzd
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String description
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object L$0
+androidx.window.layout.WindowMetricsCalculator$Companion: kotlin.jvm.functions.Function1 decorator
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.concurrent.locks.ReentrantLock multicastConsumerLock
+androidx.window.embedding.SplitPairRule: boolean finishPrimaryWithSecondary
+com.google.android.gms.internal.measurement.zzfr: int zzd
+com.google.android.gms.internal.measurement.zzet: int zzd
+com.google.android.gms.internal.measurement.zzei: int zze
+androidx.window.R$id: int locale
+com.google.android.gms.internal.measurement.zzgd: boolean zzz
+com.google.android.gms.internal.measurement.zzei: boolean zzi
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzli zzh
+androidx.datastore.preferences.PreferencesProto$Value: int LONG_FIELD_NUMBER
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: androidx.window.layout.SidecarAdapter sidecarAdapter
+kotlinx.coroutines.CancellableContinuationImpl: int _decision
+com.google.android.gms.internal.measurement.zzgi: com.google.android.gms.internal.measurement.zzgi zza
+com.google.android.gms.internal.measurement.zzfx: java.lang.String zze
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix finalMatrix
+com.google.android.gms.internal.measurement.zzgm: com.google.android.gms.internal.measurement.zzgm zza
+kotlin.coroutines.jvm.internal.SuspendLambda: int arity
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzD
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzk
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: java.util.Set registeredListeners
+kotlinx.coroutines.scheduling.WorkQueue: int producerIndex
+kotlinx.coroutines.internal.AtomicOp: java.lang.Object _consensus
+kotlin.jvm.internal.CallableReference: java.lang.Object receiver
+com.google.android.gms.internal.measurement.zzey: java.lang.String zzf
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mName
+androidx.window.R$styleable: int SplitPairRule_splitMinWidth
+androidx.window.R$styleable: int[] ActivityRule
+io.flutter.embedding.engine.FlutterJNI: io.flutter.plugin.platform.PlatformViewsController platformViewsController
+androidx.window.layout.WindowMetrics: androidx.window.core.Bounds _bounds
+androidx.datastore.preferences.PreferencesProto$Value: int STRING_SET_FIELD_NUMBER
+kotlin.jvm.internal.CallableReference: java.lang.Class owner
+androidx.window.embedding.ActivityRule: boolean alwaysExpand
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzP
+androidx.window.embedding.SplitPairRule: java.util.Set filters
+com.google.android.gms.measurement.internal.zzlk: android.os.Parcelable$Creator CREATOR
+androidx.window.R$attr: int splitMinWidth
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.components.Qualified firebaseInstallationsApi
+com.google.android.gms.internal.measurement.zzfn: com.google.android.gms.internal.measurement.zzfn zza
+androidx.window.embedding.SplitController: java.util.Set staticSplitRules
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _exceptionsHolder
+com.google.android.gms.internal.measurement.zzfp: com.google.android.gms.internal.measurement.zzgi zzf
+androidx.concurrent.futures.AbstractResolvableFuture$Waiter: java.lang.Thread thread
+androidx.window.layout.EmptyDecorator: androidx.window.layout.EmptyDecorator INSTANCE
+androidx.window.core.Version: androidx.window.core.Version CURRENT
+com.google.android.gms.internal.measurement.zzgd: int zzK
+androidx.window.core.Version$bigInteger$2: androidx.window.core.Version this$0
+com.google.android.gms.internal.measurement.zzfx: com.google.android.gms.internal.measurement.zzfx zza
+kotlinx.coroutines.JobSupport$Finishing: java.lang.Object _rootCause
+com.google.android.gms.internal.measurement.zzgd: int zzJ
+com.google.android.gms.internal.measurement.zzem: com.google.android.gms.internal.measurement.zzey zze
+com.google.android.gms.internal.measurement.zzfd: boolean zzg
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzf
+io.flutter.embedding.engine.FlutterJNI: java.util.concurrent.locks.ReentrantReadWriteLock shellHolderLock
+androidx.datastore.preferences.PreferencesProto$StringSet: int STRINGS_FIELD_NUMBER
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggeredTimestamp
+com.google.android.gms.internal.measurement.zzgm: int zzd
+com.google.android.gms.internal.measurement.zzet: int zze
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable reflected
+com.google.android.gms.internal.measurement.zzgd: long zzU
+androidx.datastore.preferences.protobuf.AbstractMessageLite: int memoizedHashCode
+io.flutter.plugin.platform.SingleViewPresentation: android.content.Context outerContext
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: long mTriggerTimeout
+io.flutter.embedding.engine.FlutterJNI: java.util.Set engineLifecycleListeners
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$AccessibilityDelegatingFrameLayout rootView
+androidx.window.layout.FoldingFeature$Orientation: androidx.window.layout.FoldingFeature$Orientation VERTICAL
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event ON_PAUSE
+androidx.window.R$attr: int primaryActivityName
+com.google.android.gms.internal.measurement.zzgr: com.google.android.gms.internal.measurement.zzgr zza
+com.google.android.gms.internal.measurement.zzky: com.google.android.gms.internal.measurement.zzks zza
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$ExtendableMessage: androidx.datastore.preferences.protobuf.FieldSet extensions
+kotlinx.coroutines.sync.MutexImpl$LockedQueue: java.lang.Object owner
+com.google.android.gms.internal.measurement.zzcl: android.os.Parcelable$Creator CREATOR
+kotlinx.coroutines.scheduling.CoroutineScheduler: int _isTerminated
+kotlinx.coroutines.DefaultExecutor: int debugStatus
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation completion
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback this$0
+com.google.android.gms.internal.measurement.zzgd: int zzY
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend globalInstance
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzq
+androidx.window.layout.DisplayCompatHelperApi17: androidx.window.layout.DisplayCompatHelperApi17 INSTANCE
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack primaryActivityStack
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList splitChangeCallbacks
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzli zzm
+com.google.android.gms.internal.measurement.zzey: com.google.android.gms.internal.measurement.zzli zzh
+com.google.android.gms.internal.measurement.zzgr: java.lang.String zze
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _next
+com.google.android.gms.internal.measurement.zzfn: java.lang.String zzf
+kotlinx.coroutines.internal.DispatchedContinuation: java.lang.Object _reusableCancellableContinuation
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzL
+androidx.concurrent.futures.AbstractResolvableFuture: androidx.concurrent.futures.AbstractResolvableFuture$Waiter waiters
+com.google.android.gms.internal.measurement.zzgt: com.google.android.gms.internal.measurement.zzgp zzf
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type$Companion Companion
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator$Companion$reset$1 INSTANCE
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: androidx.window.layout.WindowInfoTrackerImpl this$0
+com.google.android.gms.internal.measurement.zzfp: boolean zzh
+kotlin.jvm.internal.Lambda: int arity
+androidx.window.core.Version: androidx.window.core.Version$Companion Companion
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List mutators
+com.google.android.gms.internal.measurement.zzgd: long zzM
+com.google.android.gms.internal.measurement.zzei: boolean zzh
+androidx.window.layout.FoldingFeature$State: java.lang.String description
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent placeholderIntent
+com.google.android.gms.internal.measurement.zzgd: long zzn
+com.google.android.gms.internal.measurement.zzgr: com.google.android.gms.internal.measurement.zzli zzf
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: int label
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzli zzG
+com.google.android.gms.internal.measurement.zzgk: int zzd
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mExpiredEventParams
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface extensionCallback
+androidx.datastore.preferences.protobuf.GeneratedMessageLite: java.util.Map defaultInstanceMap
+androidx.window.layout.WindowLayoutInfo: java.util.List displayFeatures
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: androidx.window.layout.SidecarWindowBackend this$0
+com.google.android.gms.internal.measurement.zzgi: com.google.android.gms.internal.measurement.zzli zzf
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetricsCalculator$Companion Companion
+androidx.window.layout.ActivityCompatHelperApi30: androidx.window.layout.ActivityCompatHelperApi30 INSTANCE
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: long _state
+androidx.window.layout.WindowInfoTracker: androidx.window.layout.WindowInfoTracker$Companion Companion
+androidx.window.layout.DisplayCompatHelperApi28: androidx.window.layout.DisplayCompatHelperApi28 INSTANCE
+kotlinx.coroutines.flow.StateFlowImpl: java.lang.Object _state
+androidx.concurrent.futures.AbstractResolvableFuture: java.lang.Object value
+com.google.android.gms.common.zzs: android.os.Parcelable$Creator CREATOR
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: android.os.Bundle mTimedOutEventParams
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State HALF_OPENED
+androidx.window.layout.FoldingFeature$OcclusionType: androidx.window.layout.FoldingFeature$OcclusionType$Companion Companion
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: boolean mActive
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzq
+com.google.android.gms.internal.measurement.zzgb: com.google.android.gms.internal.measurement.zzli zzd
+com.google.android.gms.internal.measurement.zzft: int zzi
+com.google.android.gms.internal.measurement.zzgd: long zzk
+com.google.android.gms.internal.measurement.zzfv: int zzd
+com.google.android.gms.internal.measurement.zzek: com.google.android.gms.internal.measurement.zzer zzi
+io.flutter.embedding.engine.FlutterJNI: boolean loadLibraryCalled
+com.google.android.gms.internal.measurement.zzfh: java.lang.String zzf
+com.google.android.gms.internal.measurement.zzgd: long zzw
+androidx.window.embedding.SplitRule: float splitRatio
+io.flutter.embedding.engine.FlutterJNI: boolean prefetchDefaultFontManagerCalled
+com.google.android.gms.internal.measurement.zzgd: int zzf
+androidx.window.embedding.ExtensionEmbeddingBackend: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzfd: int zzh
+androidx.window.R$styleable: int ActivityFilter_activityAction
+com.google.android.gms.internal.measurement.zzgg: int zzd
+kotlinx.coroutines.scheduling.CoroutineScheduler$Worker: int indexInArray
+com.google.android.gms.internal.measurement.zzgd: long zzV
+com.google.android.gms.internal.measurement.zzgd: long zzm
+com.google.android.gms.internal.measurement.zzek: boolean zzk
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend windowBackend
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: android.app.Activity $activity
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String previousCompletedSplashIsolate
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity activity
+androidx.datastore.preferences.PreferencesProto$StringSet: androidx.datastore.preferences.protobuf.Internal$ProtobufList strings_
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList windowLayoutChangeCallbacks
+com.google.firebase.datatransport.TransportRegistrar: java.lang.String LIBRARY_NAME
+androidx.datastore.preferences.PreferencesProto$Value: int DOUBLE_FIELD_NUMBER
+com.google.android.gms.internal.measurement.zzfr: com.google.android.gms.internal.measurement.zzfr zza
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzX
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: java.lang.ref.WeakReference activityWeakReference
+com.google.android.gms.internal.measurement.zzfb: java.lang.String zze
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: androidx.window.layout.SidecarCompat sidecarCompat
+com.google.android.gms.internal.measurement.zzff: com.google.android.gms.internal.measurement.zzli zzj
+com.google.android.gms.internal.measurement.zzgm: double zzj
+androidx.window.embedding.SplitController: androidx.window.embedding.EmbeddingBackend embeddingBackend
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzt
+androidx.window.R$styleable: int SplitPairRule_clearTop
+androidx.window.embedding.EmbeddingCompat: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingExtension
+com.google.android.gms.internal.measurement.zzlb: int zzd
+androidx.window.R$attr: int alwaysExpand
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: int label
+com.google.android.gms.internal.measurement.zzek: com.google.android.gms.internal.measurement.zzli zzg
+androidx.window.layout.SidecarCompat: java.lang.String TAG
+com.google.android.gms.internal.measurement.zzfv: java.lang.String zze
+androidx.window.layout.HardwareFoldingFeature: androidx.window.core.Bounds featureBounds
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback animationCallback
+com.google.android.gms.internal.measurement.zzgt: com.google.android.gms.internal.measurement.zzgt zza
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzli zzh
+com.google.android.gms.internal.measurement.zzgk: com.google.android.gms.internal.measurement.zzgk zza
+kotlinx.coroutines.DispatchedCoroutine: int _decision
+com.google.android.gms.internal.measurement.zzem: com.google.android.gms.internal.measurement.zzem zza
+androidx.window.R$styleable: int SplitPairRule_splitRatio
+androidx.window.layout.WindowInfoTracker$Companion: java.lang.String TAG
+androidx.window.R$attr: int secondaryActivityAction
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.components.Qualified transportFactory
+com.google.android.gms.internal.measurement.zzgd: long zzj
+com.google.android.gms.internal.measurement.zzet: java.lang.String zzf
+com.google.android.gms.internal.measurement.zzet: boolean zzi
+kotlinx.coroutines.scheduling.CoroutineScheduler: long parkedWorkersStack
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock globalLock
+com.google.android.gms.internal.measurement.zzft: int zzd
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName secondaryActivityName
+androidx.window.core.Version: int minor
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle splashScreenState
+androidx.window.R$attr: int splitMinSmallestWidth
+androidx.window.R$styleable: int[] SplitPairFilter
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowMetricsCalculator windowMetricsCalculator
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.ExtensionsWindowLayoutInfoAdapter INSTANCE
+com.google.android.gms.internal.measurement.zzfp: com.google.android.gms.internal.measurement.zzfp zza
+kotlinx.coroutines.internal.LockFreeTaskQueueCore: java.lang.Object _next
+androidx.window.R$attr: int finishPrimaryWithSecondary
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type FOLD
+com.google.android.gms.internal.measurement.zzlb: java.util.Map zza
+com.google.android.gms.internal.measurement.zzgd: boolean zzF
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: java.util.List lastValue
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: androidx.window.extensions.layout.WindowLayoutComponent component
+io.flutter.plugin.platform.SingleViewPresentation: boolean startFocused
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzr
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzo
+kotlinx.coroutines.scheduling.WorkQueue: int blockingTasksInBuffer
+com.google.android.gms.internal.measurement.zzgy: double zzj
+com.google.android.gms.internal.measurement.zzfx: double zzi
+kotlin.jvm.internal.FunctionReference: int flags
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: android.app.Activity $activity
+androidx.window.layout.SidecarCompat: java.util.Map windowListenerRegisteredContexts
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController$Companion Companion
+com.google.android.gms.internal.measurement.zzgm: java.lang.String zzf
+com.google.firebase.abt.component.AbtRegistrar: java.lang.String LIBRARY_NAME
+kotlinx.coroutines.internal.LockFreeTaskQueue: java.lang.Object _cur
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean needsSave
+androidx.window.core.Version: androidx.window.core.Version UNKNOWN
+androidx.window.R$styleable: int[] SplitPairRule
+com.google.android.gms.internal.measurement.zzgd: com.google.android.gms.internal.measurement.zzlg zzT
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzp
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzo
+com.google.android.gms.common.api.Scope: android.os.Parcelable$Creator CREATOR
+androidx.datastore.preferences.PreferencesProto$PreferenceMap: androidx.datastore.preferences.PreferencesProto$PreferenceMap DEFAULT_INSTANCE
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzR
+androidx.window.core.Version: java.lang.String description
+com.google.android.gms.internal.measurement.zzff: int zzd
+androidx.window.embedding.MatcherUtils: boolean sDebugMatchers
+androidx.window.embedding.SplitPairRule: boolean finishSecondaryWithPrimary
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.concurrent.locks.ReentrantLock lock
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzad
+androidx.window.embedding.SplitRule: int layoutDirection
+androidx.window.layout.FoldingFeature$State: androidx.window.layout.FoldingFeature$State$Companion Companion
+com.google.android.gms.internal.measurement.zzfx: float zzh
+com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty: java.lang.String mTimedOutEventName
+androidx.window.R$styleable: int SplitPlaceholderRule_splitMinWidth
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: java.util.Map consumerToJobMap
+com.google.android.gms.internal.measurement.zzgd: java.lang.String zzE
+com.google.android.gms.internal.measurement.zzfh: com.google.android.gms.internal.measurement.zzfh zza
+com.google.android.gms.internal.measurement.zzer: java.lang.String zzh
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: androidx.core.util.Consumer $consumer
+io.flutter.plugin.platform.SingleViewPresentation: java.lang.String TAG
+kotlin.jvm.internal.CallableReference: java.lang.String name
+kotlinx.coroutines.scheduling.CoroutineScheduler: long controlState
+androidx.window.embedding.ActivityFilter: android.content.ComponentName componentName
+androidx.datastore.preferences.PreferencesProto$Value: int BOOLEAN_FIELD_NUMBER
+androidx.window.layout.SidecarCompat$TranslatingCallback: androidx.window.layout.SidecarCompat this$0
+com.google.android.gms.internal.measurement.zzgr: int zzd
+com.google.android.gms.internal.measurement.zzer: java.lang.String zzi
+io.flutter.embedding.engine.FlutterJNI: java.lang.String vmServiceUri
+com.google.android.gms.internal.measurement.zzer: boolean zzf
+com.google.android.gms.internal.measurement.zzff: boolean zzl
+com.google.android.gms.internal.measurement.zzff: java.lang.String zzk
+androidx.window.layout.ActivityCompatHelperApi24: androidx.window.layout.ActivityCompatHelperApi24 INSTANCE
+kotlinx.coroutines.internal.LockFreeLinkedListNode: java.lang.Object _prev
+io.flutter.view.FlutterCallbackInformation: java.lang.String callbackLibraryPath
+kotlinx.coroutines.internal.LimitedDispatcher: int runningWorkers
+androidx.collection.SimpleArrayMap: int indexOfValue(java.lang.Object)
+kotlinx.coroutines.internal.ThreadSafeHeap: kotlinx.coroutines.internal.ThreadSafeHeapNode removeAtImpl(int)
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeSetViewportMetrics(long,float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.embedding.ActivityFilter: boolean matchesActivity(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend: void access$setGlobalInstance$cp(androidx.window.layout.SidecarWindowBackend)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.SidecarWindowBackend access$getGlobalInstance$cp()
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: java.lang.Object emit(java.lang.Object,kotlin.coroutines.Continuation)
+androidx.window.embedding.MatcherUtils: boolean wildcardMatch(java.lang.String,java.lang.String)
+androidx.window.layout.SidecarCompat: void unregisterComponentCallback(android.app.Activity)
+com.google.android.gms.internal.measurement.zznl: int hashCode()
+io.flutter.embedding.engine.FlutterJNI: void onEndFrame()
+androidx.window.embedding.SplitController: void access$setStaticSplitRules(androidx.window.embedding.SplitController,java.util.Set)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void unregisterOnMeasurementEventListener(com.google.android.gms.internal.measurement.zzci)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairFilter parseSplitPairFilter(android.content.Context,android.content.res.XmlResourceParser)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: WindowInfoTrackerCallbackAdapter(androidx.window.layout.WindowInfoTracker)
+kotlin.jvm.internal.CallableReference: java.util.List getTypeParameters()
+androidx.window.embedding.ExtensionEmbeddingBackend: void getSplitChangeCallbacks$annotations()
+io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar: java.util.List getComponents()
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetBottom(android.view.DisplayCutout)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void setLastInfo(java.util.List)
+androidx.core.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.firebase.analytics.FirebaseAnalytics$ConsentType: com.google.firebase.analytics.FirebaseAnalytics$ConsentType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifierBase(int)
+com.google.firebase.encoders.proto.Protobuf$IntEncoding: com.google.firebase.encoders.proto.Protobuf$IntEncoding valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateJavaAssetManager(android.content.res.AssetManager,java.lang.String)
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: com.google.firebase.analytics.connector.AnalyticsConnector lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+com.google.android.gms.common.internal.safeparcel.AbstractSafeParcelable: AbstractSafeParcelable()
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: boolean isExtensionVersionSupported(java.lang.Integer)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization[] values()
+kotlin.jvm.internal.FunctionReference: int getArity()
+androidx.window.embedding.SplitController: java.util.Set getSplitRules()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRect(int,int,int,int)
+androidx.window.layout.WindowMetricsCalculator$Companion: WindowMetricsCalculator$Companion()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap nativeGetBitmap(long)
+androidx.window.embedding.SplitRule$Api30Impl: SplitRule$Api30Impl()
+com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService: JobInfoSchedulerService()
+io.flutter.embedding.engine.FlutterJNI: void onRenderingStopped()
+io.flutter.embedding.engine.FlutterJNI: void deferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.window.embedding.ActivityFilter: boolean matchesIntent(android.content.Intent)
+io.flutter.embedding.engine.FlutterJNI: long nativeAttach(io.flutter.embedding.engine.FlutterJNI)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation getCompletion()
+android.support.v4.app.RemoteActionCompatParcelizer: void write(androidx.core.app.RemoteActionCompat,androidx.versionedparcelable.VersionedParcel)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getMaxUserProperties(java.lang.String,com.google.android.gms.internal.measurement.zzcf)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeWindowLayoutInfoListener(androidx.core.util.Consumer)
+com.google.firebase.sessions.DataCollectionState: com.google.firebase.sessions.DataCollectionState valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void setAsyncWaitForVsyncDelegate(io.flutter.embedding.engine.FlutterJNI$AsyncWaitForVsyncDelegate)
+io.flutter.embedding.engine.FlutterJNI: void nativeNotifyLowMemoryWarning(long)
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness[] values()
+androidx.window.embedding.SplitPairFilter: java.lang.String getSecondaryActivityIntentAction()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onConfigurationChanged(android.content.res.Configuration)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityFeatures(int)
+androidx.window.embedding.ActivityRule: java.util.Set getFilters()
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion()
+androidx.window.layout.HardwareFoldingFeature$Companion: void validateFeatureBounds$window_release(androidx.window.core.Bounds)
+androidx.window.embedding.SplitPairRule: int hashCode()
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzN()
+androidx.window.layout.WindowMetricsCalculatorCompat: int getNavigationBarHeight(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPlatformMessage(long,java.lang.String,java.nio.ByteBuffer,int,int)
+com.google.firebase.analytics.FirebaseAnalytics$ConsentStatus: com.google.firebase.analytics.FirebaseAnalytics$ConsentStatus valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.window.layout.WindowLayoutInfo getLastInfo()
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation,kotlin.coroutines.CoroutineContext)
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getSecondaryActivityName()
+com.google.firebase.crashlytics.CrashlyticsRegistrar: CrashlyticsRegistrar()
+com.google.firebase.sessions.FirebaseSessionsRegistrar: java.util.List getComponents()
+kotlin.jvm.internal.CallableReference: java.lang.Object callBy(java.util.Map)
+androidx.window.layout.WindowMetrics: android.graphics.Rect getBounds()
+io.flutter.embedding.android.FlutterView: io.flutter.plugin.common.BinaryMessenger getBinaryMessenger()
+androidx.window.core.Bounds: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void dispatchPlatformMessage(java.lang.String,java.nio.ByteBuffer,int,int)
+androidx.core.content.ContextCompat$Api24Impl: boolean isDeviceProtectedStorage(android.content.Context)
+androidx.collection.SimpleArrayMap: SimpleArrayMap()
+android.support.v4.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+androidx.window.R$styleable: R$styleable()
+androidx.window.layout.SidecarAdapter$Companion: int getRawSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.FlutterJNI: void updateRefreshRate()
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.engine.FlutterEngine getAttachedFlutterEngine()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setDefaultEventParameters(android.os.Bundle)
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type valueOf(java.lang.String)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController getInstance()
+androidx.window.core.Version$Companion: androidx.window.core.Version getUNKNOWN()
+io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode: io.flutter.embedding.engine.systemchannels.PlatformViewsChannel$PlatformViewCreationRequest$RequestedDisplayMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceWindowChanged(long,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void updateCustomAccessibilityActions(java.nio.ByteBuffer,java.lang.String[])
+androidx.window.embedding.ActivityFilter: int hashCode()
+com.google.android.gms.measurement.AppMeasurement: long generateEventId()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsIceCreamSandwich$window_release(android.app.Activity)
+kotlin.jvm.internal.CallableReference: java.lang.Object getBoundReceiver()
+com.google.android.gms.internal.measurement.zzha: java.lang.String zza(android.content.ContentResolver,java.lang.String,java.lang.String)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setSessionTimeoutDuration(long)
+io.flutter.embedding.engine.FlutterJNI: void runBundleAndSnapshotFromLibrary(java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+kotlin.jvm.internal.CallableReference: CallableReference()
+androidx.window.layout.WindowMetricsCalculator$-CC: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart valueOf(java.lang.String)
+com.google.firebase.concurrent.UiExecutor: com.google.firebase.concurrent.UiExecutor valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void notifyLowMemoryWarning()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.Set getSplitRules()
+kotlin.time.DurationUnit: kotlin.time.DurationUnit valueOf(java.lang.String)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: ExtensionsWindowLayoutInfoAdapter()
+com.google.firebase.concurrent.SequentialExecutor$WorkerRunningState: com.google.firebase.concurrent.SequentialExecutor$WorkerRunningState valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat()
+io.flutter.embedding.engine.FlutterJNI: void nativeRunBundleAndSnapshotFromLibrary(long,java.lang.String,java.lang.String,java.lang.String,android.content.res.AssetManager,java.util.List)
+androidx.window.embedding.ExtensionEmbeddingBackend: boolean isSplitSupported()
+com.google.android.gms.measurement.internal.zzlp: boolean zzan(java.lang.String)
+com.google.firebase.datatransport.TransportRegistrar: java.util.List getComponents()
+androidx.window.embedding.SplitController: SplitController(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept$lambda-1(androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper,java.util.List)
+com.google.android.datatransport.Priority: com.google.android.datatransport.Priority valueOf(java.lang.String)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable getReflected()
+com.google.firebase.abt.component.AbtRegistrar: com.google.firebase.abt.component.AbtComponent lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsetsAnimation$Callback getAnimationCallback()
+com.google.android.gms.internal.measurement.zzhf: java.util.Map zzd()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: AppMeasurementDynamiteService()
+androidx.datastore.preferences.protobuf.RawMessageInfo: java.lang.Object[] getObjects()
+androidx.window.layout.HardwareFoldingFeature: boolean isSeparating()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setInstanceIdProvider(com.google.android.gms.internal.measurement.zzck)
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getSecondaryActivityStack()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(java.lang.Object,java.lang.Object)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPredicates$lambda-6(java.util.Set,android.app.Activity)
+com.google.firebase.analytics.FirebaseAnalytics$ConsentStatus: com.google.firebase.analytics.FirebaseAnalytics$ConsentStatus[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityStarted(com.google.android.gms.dynamic.IObjectWrapper,long)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifierBase(int)
+io.flutter.embedding.engine.FlutterJNI: void setPlatformMessageHandler(io.flutter.embedding.engine.dart.PlatformMessageHandler)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeGetIsSoftwareRenderingEnabled()
+com.google.android.gms.internal.measurement.zzms: java.lang.Object[] zze()
+com.google.firebase.remoteconfig.internal.ConfigFetchHandler$FetchType: com.google.firebase.remoteconfig.internal.ConfigFetchHandler$FetchType[] values()
+android.support.v4.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.engine.FlutterOverlaySurface: android.view.Surface getSurface()
+kotlin.jvm.internal.FunctionReference: boolean isInline()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewAttachedToWindow(android.view.View)
+androidx.window.layout.FoldingFeature: boolean isSeparating()
+io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar: java.util.List getComponents()
+androidx.window.embedding.SplitRule: float getSplitRatio()
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.datatransport.cct.CctBackendFactory: com.google.android.datatransport.runtime.backends.TransportBackend create(com.google.android.datatransport.runtime.backends.CreationContext)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void isDataCollectionEnabled(com.google.android.gms.internal.measurement.zzcf)
+androidx.window.layout.WindowLayoutInfo: WindowLayoutInfo(java.util.List)
+com.google.android.gms.internal.measurement.zznl: void zzl(int)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$500(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.SplitInfo: java.lang.String toString()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: void storeField(int,java.lang.Object)
+androidx.window.embedding.SplitController: androidx.window.embedding.SplitController access$getGlobalInstance$cp()
+androidx.window.embedding.SplitPlaceholderRule: androidx.window.embedding.SplitPlaceholderRule plus$window_release(androidx.window.embedding.ActivityFilter)
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getHINGE$cp()
+androidx.datastore.preferences.protobuf.ProtobufArrayList: java.lang.Object remove(int)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void updateSemantics(java.nio.ByteBuffer,java.lang.String[],java.nio.ByteBuffer[])
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.gms.internal.measurement.zzmr: void add(int,java.lang.Object)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: androidx.lifecycle.Lifecycle getLifecycle()
+androidx.core.graphics.drawable.IconCompatParcelizer: IconCompatParcelizer()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void remove()
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.util.List)
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: boolean validBounds(android.app.Activity,androidx.window.core.Bounds)
+kotlin.jvm.internal.CallableReference: java.util.List getAnnotations()
+com.google.android.gms.internal.measurement.zzkt: <clinit>()
+com.google.firebase.installations.FirebaseInstallationsRegistrar: java.util.List getComponents()
+io.flutter.embedding.android.FlutterView: android.view.accessibility.AccessibilityNodeProvider getAccessibilityNodeProvider()
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.PlatformView,io.flutter.plugin.platform.AccessibilityEventsDelegate,int,android.view.View$OnFocusChangeListener)
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: ExtensionEmbeddingBackend$SplitListenerWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityFilter parseActivityFilter(android.content.Context,android.content.res.XmlResourceParser)
+kotlin.coroutines.jvm.internal.ContinuationImpl: ContinuationImpl(kotlin.coroutines.Continuation)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void resetAnalyticsData(long)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(kotlin.coroutines.Continuation)
+com.google.firebase.installations.remote.InstallationResponse$ResponseCode: com.google.firebase.installations.remote.InstallationResponse$ResponseCode[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: void accept(java.util.List)
+androidx.window.layout.HardwareFoldingFeature$Type: androidx.window.layout.HardwareFoldingFeature$Type access$getFOLD$cp()
+androidx.window.layout.WindowInfoTrackerImpl: WindowInfoTrackerImpl(androidx.window.layout.WindowMetricsCalculator,androidx.window.layout.WindowBackend)
+com.google.firebase.sessions.LogEnvironment: com.google.firebase.sessions.LogEnvironment valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.zzhb: java.lang.String zzi()
+com.example.untitled.MainActivity: MainActivity()
+androidx.window.embedding.ActivityFilter: java.lang.String getIntentAction()
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap getBitmap()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.zzeo: java.lang.String zzf(java.lang.String)
+com.google.android.gms.common.internal.zzm: java.lang.Object createFromParcel(android.os.Parcel)
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+androidx.window.embedding.SplitInfo: boolean contains(android.app.Activity)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setMinimumSessionDuration(long)
+io.flutter.view.AccessibilityViewEmbedder: AccessibilityViewEmbedder(android.view.View,int)
+androidx.window.layout.SidecarWindowBackend: void setWindowExtension(androidx.window.layout.ExtensionInterfaceCompat)
+kotlin.jvm.internal.CallableReference: boolean isAbstract()
+androidx.core.content.ContextCompat$Api24Impl: java.io.File getDataDir(android.content.Context)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+kotlin.jvm.internal.FunctionReference: int hashCode()
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion()
+io.flutter.view.AccessibilityViewEmbedder: void addChildrenToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.layout.WindowInfoTracker$-CC: void reset()
+com.google.android.gms.internal.measurement.zznl: void zzk(com.google.android.gms.internal.measurement.zzoc)
+androidx.core.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.FoldingFeature$OcclusionType: java.lang.String toString()
+androidx.window.core.Version: int compareTo(java.lang.Object)
+androidx.window.layout.FoldingFeature$Orientation$Companion: FoldingFeature$Orientation$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+kotlinx.coroutines.CoroutineStart: kotlinx.coroutines.CoroutineStart[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmoji(int)
+io.flutter.embedding.engine.FlutterJNI: void unregisterTexture(long)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$200(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.embedding.ActivityStack: java.lang.String toString()
+androidx.window.layout.WindowMetrics: WindowMetrics(android.graphics.Rect)
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCachedAppInstanceId(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.embedding.android.KeyboardManager: boolean handleEvent(android.view.KeyEvent)
+kotlinx.coroutines.channels.ArrayChannel: java.lang.Object pollInternal()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KDeclarationContainer getOwner()
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.embedding.EmbeddingAdapter: java.util.List translate(java.util.List)
+com.google.android.gms.measurement.AppMeasurementReceiver: AppMeasurementReceiver()
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsVariationSelector(int)
+androidx.window.layout.WindowMetricsCalculator$-CC: void reset()
+com.google.android.gms.internal.measurement.zznl: com.google.android.gms.internal.measurement.zznl zzd(com.google.android.gms.internal.measurement.zznl)
+com.google.android.gms.measurement.AppMeasurementJobService: AppMeasurementJobService()
+androidx.window.core.Version: java.lang.String toString()
+androidx.window.core.Version: int compareTo(androidx.window.core.Version)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitRules$window_release(android.content.Context,int)
+com.google.android.gms.internal.measurement.zzje: java.lang.Object get(int)
+com.google.android.gms.measurement.AppMeasurementService: AppMeasurementService()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: void setEmbeddingExtension(androidx.window.embedding.EmbeddingInterfaceCompat)
+androidx.window.embedding.EmbeddingAdapter: java.util.Set translate(java.util.Set)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component2(android.util.Pair)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object)
+io.flutter.view.AccessibilityViewEmbedder: java.lang.Integer getRecordFlutterId(android.view.View,android.view.accessibility.AccessibilityRecord)
+io.flutter.plugin.editing.TextInputPlugin: android.view.inputmethod.InputConnection createInputConnection(android.view.View,io.flutter.embedding.android.KeyboardManager,android.view.inputmethod.EditorInfo)
+kotlin.jvm.internal.CallableReference: boolean isSuspend()
+androidx.window.embedding.ActivityStack: boolean contains(android.app.Activity)
+com.google.android.gms.measurement.AppMeasurement: void setConditionalUserProperty(com.google.android.gms.measurement.AppMeasurement$ConditionalUserProperty)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+io.flutter.embedding.android.FlutterImageView: android.view.Surface getSurface()
+kotlin.jvm.internal.FunctionReference: boolean equals(java.lang.Object)
+androidx.window.core.Bounds: int getTop()
+com.google.android.gms.internal.measurement.zzml: com.google.android.gms.internal.measurement.zzlf zzA(int)
+kotlinx.coroutines.channels.ArrayChannel: void enqueueElement(int,java.lang.Object)
+com.google.firebase.FirebaseCommonRegistrar: FirebaseCommonRegistrar()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setDataCollectionEnabled(boolean)
+com.google.android.gms.measurement.internal.zzha: com.google.android.gms.measurement.internal.zzha[] values()
+com.google.android.gms.common.internal.zzm: void zza(com.google.android.gms.common.internal.GetServiceRequest,android.os.Parcel,int)
+androidx.window.layout.SidecarWindowBackend$Companion: boolean isSidecarVersionSupported(androidx.window.core.Version)
+androidx.window.embedding.SplitController: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+kotlinx.coroutines.internal.ArrayQueue: void ensureCapacity()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.FoldingFeature translate$window_release(android.app.Activity,androidx.window.extensions.layout.FoldingFeature)
+androidx.window.embedding.SplitPairRule: boolean getFinishPrimaryWithSecondary()
+com.google.firebase.concurrent.ExecutorsRegistrar: ExecutorsRegistrar()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_0_1$cp()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void performAction(android.os.Bundle,com.google.android.gms.internal.measurement.zzcf,long)
+androidx.collection.SimpleArrayMap: java.lang.Object put(java.lang.Object,java.lang.Object)
+kotlinx.coroutines.internal.ThreadState: void restore(kotlin.coroutines.CoroutineContext)
+androidx.datastore.preferences.protobuf.StructuralMessageInfo: androidx.datastore.preferences.protobuf.FieldInfo[] getFields()
+com.google.android.gms.common.internal.BaseGmsClient: com.google.android.gms.common.Feature[] getApiFeatures()
+androidx.window.embedding.SplitController$Companion: void initialize(android.content.Context,int)
+androidx.window.embedding.SplitInfo: float getSplitRatio()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: androidx.core.util.Consumer getCallback()
+com.google.android.gms.internal.measurement.zzjf: <clinit>()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getUserProperties(java.lang.String,java.lang.String,boolean,com.google.android.gms.internal.measurement.zzcf)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarWindowLayoutInfo(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarWindowLayoutInfo)
+kotlin.coroutines.jvm.internal.SuspendLambda: int getArity()
+kotlin.jvm.internal.CallableReference: boolean isOpen()
+kotlinx.coroutines.internal.ThreadState: void append(kotlinx.coroutines.ThreadContextElement,java.lang.Object)
+com.google.android.gms.measurement.internal.zzhc: java.lang.String zza(java.lang.String)
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType[] values()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+kotlin.jvm.internal.FunctionReference: boolean isInfix()
+com.google.android.datatransport.runtime.firebase.transport.LogEventDropped$Reason: com.google.android.datatransport.runtime.firebase.transport.LogEventDropped$Reason valueOf(java.lang.String)
+kotlin.coroutines.jvm.internal.ContinuationImpl: void releaseIntercepted()
+androidx.window.layout.SidecarCompat: androidx.window.sidecar.SidecarInterface getSidecar()
+androidx.window.layout.SidecarCompat: boolean validateExtensionInterface()
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateJavaAssetManager(long,android.content.res.AssetManager,java.lang.String)
+androidx.window.embedding.EmbeddingAdapter: boolean translateParentMetricsPredicate$lambda-4(androidx.window.embedding.SplitRule,android.view.WindowMetrics)
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect maximumWindowBounds(android.app.Activity)
+com.google.firebase.abt.component.AbtRegistrar: java.util.List getComponents()
+androidx.window.embedding.EmbeddingBackend: void setSplitRules(java.util.Set)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$602(io.flutter.embedding.android.FlutterSplashView$SavedState,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchEmptyPlatformMessage(long,java.lang.String,int)
+io.flutter.embedding.engine.FlutterJNI: void addIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$402(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.WindowInsets)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: java.lang.Object invoke(java.lang.Object)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$600(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion()
+androidx.window.embedding.EmptyEmbeddingComponent: void setEmbeddingRules(java.util.Set)
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.firebase.installations.local.IidStore: java.lang.String readToken()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: boolean getIsSoftwareRenderingEnabled()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View$OnApplyWindowInsetsListener getInsetsListener()
+com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag: com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag[] values()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: HardwareFoldingFeature$Type$Companion()
+androidx.window.embedding.SplitPairRule: java.util.Set getFilters()
+androidx.window.embedding.EmbeddingTranslatingCallback: void accept(java.lang.Object)
+androidx.window.core.Bounds: Bounds(int,int,int,int)
+kotlin.jvm.internal.CallableReference: CallableReference(java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,boolean)
+androidx.window.layout.SidecarCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.SidecarWindowBackend getInstance(android.content.Context)
+androidx.window.layout.SidecarWindowBackend: void callbackRemovedForActivity(android.app.Activity)
+androidx.window.layout.SidecarWindowBackend: boolean isActivityRegistered(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void onPreEngineRestart()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void removeListener(androidx.core.util.Consumer)
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility[] values()
+com.google.android.datatransport.runtime.backends.BackendResponse$Status: com.google.android.datatransport.runtime.backends.BackendResponse$Status valueOf(java.lang.String)
+com.google.android.gms.common.GoogleSignatureVerifier: com.google.android.gms.common.zzx zzc(java.lang.String,boolean,boolean)
+io.flutter.embedding.engine.FlutterJNI: void setDeferredComponentManager(io.flutter.embedding.engine.deferredcomponents.DeferredComponentManager)
+kotlinx.coroutines.internal.ThreadSafeHeap: void siftDownFrom(int)
+androidx.lifecycle.CompositeGeneratedAdaptersObserver: void onStateChanged(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$Event)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchPointerDataPacket(long,java.nio.ByteBuffer,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConditionalUserProperty(android.os.Bundle,long)
+kotlinx.coroutines.internal.ThreadSafeHeap: void swap(int,int)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: WindowInfoTrackerImpl$windowLayoutInfo$1(androidx.window.layout.WindowInfoTrackerImpl,android.app.Activity,kotlin.coroutines.Continuation)
+com.google.android.gms.internal.measurement.zzmr: com.google.android.gms.internal.measurement.zzli zzd(int)
+com.google.firebase.components.ComponentDiscoveryService: ComponentDiscoveryService()
+androidx.window.core.Version: int hashCode()
+com.google.android.gms.internal.measurement.zzml: com.google.android.gms.internal.measurement.zzmt zzB(int)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+io.flutter.embedding.android.DrawableSplashScreen$DrawableSplashScreenView: void setSplashDrawable(android.graphics.drawable.Drawable)
+kotlin.jvm.internal.FunctionReference: boolean isSuspend()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI nativeSpawn(long,java.lang.String,java.lang.String,java.lang.String,java.util.List)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setCurrentScreen(com.google.android.gms.dynamic.IObjectWrapper,java.lang.String,java.lang.String,long)
+io.flutter.embedding.engine.FlutterJNI: void nativeUnregisterTexture(long,long)
+androidx.window.layout.FoldingFeature$State: FoldingFeature$State(java.lang.String)
+androidx.window.embedding.EmbeddingBackend: boolean isSplitSupported()
+androidx.datastore.preferences.protobuf.ManifestSchemaFactory$CompositeMessageInfoFactory: androidx.datastore.preferences.protobuf.MessageInfo messageInfoFor(java.lang.Class)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture)
+androidx.window.layout.WindowMetricsCalculator$-CC: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+io.flutter.embedding.engine.FlutterJNI: void nativeOnVsync(long,long,long)
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType[] values()
+io.flutter.view.AccessibilityViewEmbedder: android.view.View platformViewOfNode(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushTransform(float[])
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType[] values()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.ActivityRule parseSplitActivityRule(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+io.flutter.embedding.android.FlutterView: void setVisibility(int)
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: java.lang.Object invoke(java.lang.Object)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void registerOnMeasurementEventListener(com.google.android.gms.internal.measurement.zzci)
+androidx.window.embedding.SplitInfo: androidx.window.embedding.ActivityStack getPrimaryActivityStack()
+io.flutter.embedding.engine.FlutterJNI: void lambda$decodeImage$0(long,android.graphics.ImageDecoder,android.graphics.ImageDecoder$ImageInfo,android.graphics.ImageDecoder$Source)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void detachFromGLContext()
+androidx.window.core.Version: androidx.window.core.Version access$getUNKNOWN$cp()
+kotlin.jvm.internal.Lambda: java.lang.String toString()
+androidx.window.embedding.EmptyEmbeddingComponent: void setSplitInfoCallback(java.util.function.Consumer)
+com.google.android.gms.measurement.internal.zzlp: int zzh(java.lang.String)
+com.google.android.gms.internal.measurement.zzbl: com.google.android.gms.internal.measurement.zzbl[] values()
+androidx.window.layout.WindowMetrics: WindowMetrics(androidx.window.core.Bounds)
+androidx.datastore.preferences.protobuf.ProtobufArrayList: void add(int,java.lang.Object)
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenClass()
+androidx.window.core.Version: java.math.BigInteger getBigInteger()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addWindowLayoutInfoListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void lambda$didReinitializeFirebaseCore$1(com.google.android.gms.tasks.TaskCompletionSource)
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void addListener(java.util.concurrent.Executor,androidx.core.util.Consumer,kotlinx.coroutines.flow.Flow)
+io.flutter.embedding.engine.FlutterJNI: void registerTexture(long,io.flutter.embedding.engine.renderer.SurfaceTextureWrapper)
+androidx.window.embedding.ActivityStack: int hashCode()
+kotlinx.coroutines.channels.ArrayChannel: void ensureCapacity(int)
+androidx.window.core.Version: androidx.window.core.Version access$getCURRENT$cp()
+com.google.android.gms.measurement.AppMeasurement: int getMaxUserProperties(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceDestroyed()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature[] values()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: void writeAsMessageSetTo(androidx.datastore.preferences.protobuf.Writer)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPairPredicates(java.util.Set)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setUserProperty(java.lang.String,java.lang.String,com.google.android.gms.dynamic.IObjectWrapper,boolean,long)
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type[] values()
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int)
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion()
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion()
+androidx.window.core.Bounds: int hashCode()
+kotlin.jvm.internal.CallableReference: java.lang.String getName()
+com.google.firebase.crashlytics.internal.settings.SettingsCacheBehavior: com.google.firebase.crashlytics.internal.settings.SettingsCacheBehavior[] values()
+androidx.window.embedding.EmbeddingCompat$Companion: java.lang.Integer getExtensionApiLevel()
+com.google.android.gms.measurement.AppMeasurement: void logEventInternal(java.lang.String,java.lang.String,android.os.Bundle)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$202(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.embedding.android.FlutterSplashView$SavedState: java.lang.String access$600(io.flutter.embedding.android.FlutterSplashView$SavedState)
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype[] values()
+androidx.window.layout.EmptyDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+io.flutter.view.AccessibilityViewEmbedder: void cacheVirtualIdMappings(android.view.View,int,int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsRegionalIndicator(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeCleanupMessageData(long)
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean,int,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getVMServiceUri()
+androidx.collection.SimpleArrayMap: java.lang.Object removeAt(int)
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode[] values()
+io.flutter.embedding.engine.FlutterJNI: void nativeImageHeaderCallback(long,int,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityDestroyed(com.google.android.gms.dynamic.IObjectWrapper,long)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState[] values()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void attachToGLContext(int)
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityIntentPair(android.app.Activity,android.content.Intent)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$302(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,boolean)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: ImeSyncDeferringInsetsCallback(android.view.View,int,int)
+androidx.collection.SimpleArrayMap: java.lang.Object valueAt(int)
+androidx.window.layout.WindowMetricsCalculator$Companion: void reset()
+androidx.window.embedding.ExtensionEmbeddingBackend: void setSplitRules(java.util.Set)
+androidx.window.layout.WindowMetrics: boolean equals(java.lang.Object)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: java.lang.Object invoke(java.lang.Object)
+androidx.lifecycle.Lifecycle$State: androidx.lifecycle.Lifecycle$State valueOf(java.lang.String)
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_1_0()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.view.DisplayCutout getCutoutForDisplay(android.view.Display)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void clearConditionalUserProperty(java.lang.String,java.lang.String,android.os.Bundle)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag[] values()
+androidx.window.layout.WindowInfoTrackerDecorator: androidx.window.layout.WindowInfoTracker decorate(androidx.window.layout.WindowInfoTracker)
+io.flutter.embedding.engine.FlutterJNI: void dispatchEmptyPlatformMessage(java.lang.String,int)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateParentMetricsPredicate(androidx.window.embedding.SplitRule)
+androidx.window.embedding.SplitRuleParser: android.content.ComponentName buildClassName(java.lang.String,java.lang.CharSequence)
+kotlin.jvm.internal.CollectionToArray: java.lang.Object[] toArray(java.util.Collection)
+kotlinx.coroutines.internal.ArrayQueue: void addLast(java.lang.Object)
+com.google.android.gms.internal.measurement.zzix: com.google.android.gms.internal.measurement.zzix zza(java.lang.Object[])
+com.google.firebase.sessions.settings.SessionsSettings$Companion: androidx.datastore.core.DataStore getDataStore(android.content.Context)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KVisibility getVisibility()
+androidx.datastore.preferences.protobuf.MessageSchema: androidx.datastore.preferences.protobuf.Schema getMessageFieldSchema(int)
+io.flutter.embedding.engine.FlutterJNI: boolean nativeFlutterTextUtilsIsEmojiModifier(int)
+androidx.core.content.ContextCompat$Api28Impl: java.util.concurrent.Executor getMainExecutor(android.content.Context)
+io.flutter.plugin.platform.SingleViewPresentation: SingleViewPresentation(android.content.Context,android.view.Display,io.flutter.plugin.platform.AccessibilityEventsDelegate,io.flutter.plugin.platform.SingleViewPresentation$PresentationState,android.view.View$OnFocusChangeListener,boolean)
+io.flutter.embedding.engine.FlutterJNI: void nativeDestroy(long)
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: java.util.List getComponents()
+io.flutter.embedding.engine.FlutterJNI: void ensureAttachedToNative()
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+androidx.window.core.Version: int getMajor()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onEnd(android.view.WindowInsetsAnimation)
+io.flutter.embedding.engine.FlutterJNI: void nativePrefetchDefaultFontManager()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$State getState()
+com.google.firebase.sessions.api.SessionSubscriber$Name: com.google.firebase.sessions.api.SessionSubscriber$Name valueOf(java.lang.String)
+androidx.legacy.content.WakefulBroadcastReceiver: WakefulBroadcastReceiver()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void endAdUnitExposure(java.lang.String,long)
+com.google.firebase.abt.component.AbtRegistrar: AbtRegistrar()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: android.graphics.Matrix getPlatformViewMatrix()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType[] values()
+com.google.android.gms.measurement.internal.zzik: void zzI(java.lang.String,java.lang.String,long,android.os.Bundle,boolean,boolean,boolean,java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: boolean performAction(int,int,android.os.Bundle)
+androidx.window.embedding.SplitInfo: int hashCode()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: SidecarWindowBackend$WindowLayoutChangeCallbackWrapper(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getConditionalUserProperties(java.lang.String,java.lang.String,com.google.android.gms.internal.measurement.zzcf)
+com.google.firebase.crashlytics.internal.common.CrashlyticsReportDataCapture: com.google.firebase.crashlytics.internal.model.CrashlyticsReport$Session$Event$Application$Execution$Exception populateExceptionData(com.google.firebase.crashlytics.internal.stacktrace.TrimmedThrowableData,int,int,int)
+androidx.window.core.Version: int getMinor()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable compute()
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState valueOf(java.lang.String)
+com.google.android.datatransport.cct.internal.ClientInfo$ClientType: com.google.android.datatransport.cct.internal.ClientInfo$ClientType[] values()
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode[] values()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.zzek: com.google.android.gms.measurement.internal.zzq zzj(java.lang.String)
+com.google.firebase.sessions.EventType: com.google.firebase.sessions.EventType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onFirstFrame()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: android.graphics.SurfaceTexture surfaceTexture()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo getRootNode(android.view.View,int,android.graphics.Rect)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureType valueOf(java.lang.String)
+androidx.window.embedding.ActivityStack: boolean isEmpty()
+io.flutter.view.FlutterCallbackInformation: io.flutter.view.FlutterCallbackInformation lookupCallbackInformation(long)
+kotlin.jvm.internal.FunctionReference: boolean isOperator()
+androidx.window.layout.WindowMetricsCalculatorCompat: androidx.window.layout.WindowMetrics computeMaximumWindowMetrics(android.app.Activity)
+androidx.window.layout.SidecarCompat: SidecarCompat(androidx.window.sidecar.SidecarInterface,androidx.window.layout.SidecarAdapter)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action)
+androidx.window.layout.FoldingFeature$State: java.lang.String toString()
+androidx.window.layout.ActivityCompatHelperApi30: android.graphics.Rect currentWindowBounds(android.app.Activity)
+io.flutter.plugins.GeneratedPluginRegistrant: void registerWith(io.flutter.embedding.engine.FlutterEngine)
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: int getSerializedSizeAsMessageSet()
+androidx.window.layout.SidecarWindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+com.google.firebase.installations.remote.InstallationResponse$ResponseCode: com.google.firebase.installations.remote.InstallationResponse$ResponseCode valueOf(java.lang.String)
+androidx.window.embedding.SplitController: void addSplitListener(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.firebase.abt.AbtExperimentInfo: void validateExperimentInfoMap(java.util.Map)
+androidx.window.embedding.SplitPairRule: boolean getFinishSecondaryWithPrimary()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getHINGE()
+com.google.android.gms.internal.measurement.zzcb: zzcb()
+com.google.android.gms.measurement.internal.zzhc: java.lang.String zzb(java.lang.String)
+androidx.window.layout.SidecarCompat$Companion: SidecarCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.core.app.RemoteActionCompatParcelizer: RemoteActionCompatParcelizer()
+io.flutter.embedding.android.FlutterTextureView: void setRenderSurface(android.view.Surface)
+androidx.window.layout.SidecarWindowBackend$Companion: SidecarWindowBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.firebase.crashlytics.internal.common.DeliveryMechanism: com.google.firebase.crashlytics.internal.common.DeliveryMechanism[] values()
+androidx.window.layout.WindowInfoTrackerImpl: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: SidecarCompat$DistinctElementCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+com.google.firebase.analytics.FirebaseAnalytics: void setCurrentScreen(android.app.Activity,java.lang.String,java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String getObservatoryUri()
+androidx.window.core.Version: androidx.window.core.Version access$getVERSION_1_0$cp()
+androidx.window.layout.WindowMetrics: java.lang.String toString()
+androidx.window.embedding.SplitRule: SplitRule()
+androidx.core.graphics.drawable.IconCompat: IconCompat()
+com.google.android.gms.internal.measurement.zzjf: java.lang.Object[] zze()
+io.flutter.embedding.engine.FlutterJNI: void asyncWaitForVsync(long)
+io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode: io.flutter.embedding.android.FlutterActivityLaunchConfigs$BackgroundMode valueOf(java.lang.String)
+androidx.window.embedding.SplitPlaceholderRule: android.content.Intent getPlaceholderIntent()
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPairRule parseSplitPairRule(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayPlatformView(int,int,int,int,int,int,int,io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack)
+androidx.window.java.R: R()
+androidx.window.embedding.EmbeddingCompat: void setEmbeddingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface)
+io.flutter.view.FlutterCallbackInformation: FlutterCallbackInformation(java.lang.String,java.lang.String,java.lang.String)
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityPaused(com.google.android.gms.dynamic.IObjectWrapper,long)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextCapitalization valueOf(java.lang.String)
+androidx.window.core.Version$Companion: Version$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.android.datatransport.cct.internal.QosTier: com.google.android.datatransport.cct.internal.QosTier[] values()
+androidx.window.core.Version$Companion: Version$Companion()
+kotlinx.coroutines.internal.ThreadSafeHeap: void siftUpFrom(int)
+androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface: void onSplitInfoChanged(java.util.List)
+androidx.window.core.Version: Version(int,int,int,java.lang.String,kotlin.jvm.internal.DefaultConstructorMarker)
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task didReinitializeFirebaseCore()
+com.google.android.datatransport.runtime.backends.BackendResponse$Status: com.google.android.datatransport.runtime.backends.BackendResponse$Status[] values()
+com.google.android.gms.internal.measurement.zzjf: int zza(java.lang.Object[],int)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: void removeListener(androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getSessionId(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar: java.util.List getComponents()
+io.flutter.embedding.android.TransparencyMode: io.flutter.embedding.android.TransparencyMode valueOf(java.lang.String)
+androidx.window.embedding.MatcherUtils: boolean areComponentsMatching$window_release(android.content.ComponentName,android.content.ComponentName)
+androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.HardwareFoldingFeature$Type: HardwareFoldingFeature$Type(java.lang.String)
+androidx.window.embedding.SplitInfo: SplitInfo(androidx.window.embedding.ActivityStack,androidx.window.embedding.ActivityStack,float)
+io.flutter.embedding.engine.FlutterJNI: void addEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+androidx.window.embedding.SplitController: void initialize(android.content.Context,int)
+android.support.v4.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.embedding.SplitPairFilter: boolean equals(java.lang.Object)
+com.google.android.gms.common.GooglePlayServicesUtilLight: int isGooglePlayServicesAvailable(android.content.Context,int)
+com.google.android.gms.measurement.internal.zzeo: java.lang.String zzd(java.lang.String)
+io.flutter.embedding.android.FlutterImageView: android.media.ImageReader getImageReader()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Point getRealSizeForDisplay$window_release(android.view.Display)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event valueOf(java.lang.String)
+com.google.android.gms.measurement.internal.zzlp: android.os.Bundle zzu(java.lang.String,java.lang.String,android.os.Bundle,java.util.List,boolean)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KFunction getReflected()
+io.flutter.embedding.engine.FlutterJNI: void setViewportMetrics(float,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int,int[],int[],int[])
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzS()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: void printWithIndent(java.lang.StringBuilder,int)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Class,java.lang.String,java.lang.String,int)
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: androidx.datastore.preferences.protobuf.UnknownFieldSetLite mutableCopyOf(androidx.datastore.preferences.protobuf.UnknownFieldSetLite,androidx.datastore.preferences.protobuf.UnknownFieldSetLite)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodesTranslateBounds(android.view.accessibility.AccessibilityNodeInfo,android.graphics.Rect,android.view.accessibility.AccessibilityNodeInfo)
+androidx.core.graphics.drawable.IconCompatParcelizer: androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)
+androidx.window.embedding.SplitRule: boolean checkParentMetrics(android.view.WindowMetrics)
+kotlin.jvm.internal.FunctionReference: java.lang.String toString()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invokeSuspend(java.lang.Object)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation valueOf(java.lang.String)
+androidx.window.embedding.SplitRule: int hashCode()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getCurrentScreenName()
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.SidecarCompat$Companion: androidx.window.core.Version getSidecarVersion()
+com.google.android.gms.measurement.internal.zzik: void zzX(java.lang.String,java.lang.String,java.lang.Object,boolean,long)
+kotlin.jvm.internal.FunctionReference: boolean isExternal()
+com.google.android.gms.measurement.internal.zzlp: boolean zzaa(java.lang.String,java.lang.String[],java.lang.String[],java.lang.String)
+androidx.window.embedding.SplitRuleParser: java.util.Set parseSplitXml(android.content.Context,int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: android.graphics.Matrix getFinalMatrix()
+io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type: io.flutter.plugin.editing.TextInputPlugin$InputTarget$Type[] values()
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$MobileSubtype valueOf(java.lang.String)
+androidx.datastore.preferences.protobuf.ProtobufArrayList: java.lang.Object get(int)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: androidx.window.layout.WindowMetricsCalculator invoke(androidx.window.layout.WindowMetricsCalculator)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object)
+androidx.window.layout.HardwareFoldingFeature: boolean equals(java.lang.Object)
+com.google.firebase.concurrent.FirebaseExecutors$DirectExecutor: com.google.firebase.concurrent.FirebaseExecutors$DirectExecutor valueOf(java.lang.String)
+androidx.core.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.HardwareFoldingFeature: java.lang.String toString()
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$OcclusionType getOcclusionType()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void initForTests(java.util.Map)
+androidx.window.layout.SidecarAdapter$Companion: int getSidecarDevicePosture$window_release(androidx.window.sidecar.SidecarDeviceState)
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessage(java.lang.String,java.nio.ByteBuffer,int,long)
+androidx.window.embedding.SplitRule: int getMinSmallestWidth()
+androidx.window.embedding.ExtensionEmbeddingBackend: ExtensionEmbeddingBackend(androidx.window.embedding.EmbeddingInterfaceCompat)
+kotlin.time.DurationUnit: kotlin.time.DurationUnit[] values()
+androidx.window.embedding.SplitController$Companion: SplitController$Companion()
+io.flutter.embedding.engine.FlutterJNI: void loadLibrary()
+kotlinx.coroutines.internal.ThreadSafeHeap: kotlinx.coroutines.internal.ThreadSafeHeapNode[] realloc()
+io.flutter.embedding.android.KeyboardManager$PerEventCallbackBuilder: KeyboardManager$PerEventCallbackBuilder(io.flutter.embedding.android.KeyboardManager,android.view.KeyEvent)
+io.flutter.embedding.android.KeyEmbedderResponder: boolean handleEventImpl(android.view.KeyEvent,io.flutter.embedding.android.KeyboardManager$Responder$OnKeyEventHandledCallback)
+androidx.window.embedding.EmbeddingInterfaceCompat: void setSplitRules(java.util.Set)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeature(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDisplayFeature)
+androidx.window.embedding.EmbeddingAdapter: androidx.window.embedding.SplitInfo translate(androidx.window.extensions.embedding.SplitInfo)
+androidx.window.layout.SidecarWindowBackend$Companion: androidx.window.layout.ExtensionInterfaceCompat initAndVerifyExtension(android.content.Context)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.ExtensionEmbeddingBackend access$getGlobalInstance$cp()
+androidx.window.layout.WindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zzlz: boolean zzc(java.lang.Class)
+io.flutter.plugin.platform.PlatformViewsController: java.lang.Class[] access$300()
+io.flutter.embedding.engine.FlutterJNI: void setPlatformViewsController(io.flutter.plugin.platform.PlatformViewsController)
+com.google.firebase.sessions.DataCollectionState: com.google.firebase.sessions.DataCollectionState[] values()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointRegionalIndicator(int)
+androidx.window.embedding.SplitPairRule: boolean getClearTop()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness[] values()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: boolean equals(java.lang.Object)
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion()
+androidx.window.embedding.SplitRule: int getMinWidth()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsP$window_release(android.app.Activity)
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.CoroutineContext getContext()
+io.flutter.embedding.engine.FlutterJNI: void setSemanticsEnabled(boolean)
+androidx.window.layout.WindowLayoutInfo: int hashCode()
+androidx.window.layout.WindowMetricsCalculator$Companion$decorator$1: WindowMetricsCalculator$Companion$decorator$1()
+kotlin.jvm.internal.CallableReference: java.util.List getParameters()
+com.google.firebase.ktx.FirebaseCommonKtxRegistrar: FirebaseCommonKtxRegistrar()
+com.google.android.gms.internal.measurement.zzcb: com.google.android.gms.internal.measurement.zzcc asInterface(android.os.IBinder)
+androidx.window.layout.WindowLayoutInfo: java.lang.String toString()
+io.flutter.embedding.engine.FlutterJNI: void setRefreshRateFPS(float)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getFinalClippingPaths()
+kotlinx.coroutines.flow.internal.AbstractSharedFlow: kotlinx.coroutines.flow.internal.AbstractSharedFlowSlot[] getSlots()
+androidx.window.embedding.SplitPairFilter: android.content.ComponentName getPrimaryActivityName()
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: int access$100(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.layout.FoldingFeature$Orientation: FoldingFeature$Orientation(java.lang.String)
+androidx.window.layout.HardwareFoldingFeature$Companion: HardwareFoldingFeature$Companion()
+com.google.firebase.remoteconfig.RemoteConfigRegistrar: java.util.List getComponents()
+androidx.window.core.Bounds: int getWidth()
+androidx.window.layout.SidecarCompat: java.util.Map access$getWindowListenerRegisteredContexts$p(androidx.window.layout.SidecarCompat)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay[] values()
+io.flutter.embedding.android.KeyData$Type: io.flutter.embedding.android.KeyData$Type valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: void install()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityPredicates(java.util.Set)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: FlutterMutatorsStack()
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsN$window_release(android.app.Activity)
+androidx.window.embedding.SplitRuleParser: androidx.window.embedding.SplitPlaceholderRule parseSplitPlaceholderRule(android.content.Context,android.content.res.XmlResourceParser)
+io.flutter.embedding.android.FlutterView: void setWindowInfoListenerDisplayFeatures(androidx.window.layout.WindowLayoutInfo)
+androidx.window.layout.ActivityCompatHelperApi30: ActivityCompatHelperApi30()
+androidx.window.layout.WindowMetricsCalculatorCompat: WindowMetricsCalculatorCompat()
+io.flutter.embedding.engine.FlutterJNI: void destroyOverlaySurfaces()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getGmpAppId()
+com.google.firebase.concurrent.FirebaseExecutors$DirectExecutor: com.google.firebase.concurrent.FirebaseExecutors$DirectExecutor[] values()
+com.google.android.gms.internal.measurement.zziw: java.lang.Object[] toArray()
+androidx.window.layout.SidecarCompat: SidecarCompat(android.content.Context)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: SidecarCompat$DistinctSidecarElementCallback(androidx.window.layout.SidecarAdapter,androidx.window.sidecar.SidecarInterface$SidecarCallback)
+com.google.android.gms.dynamite.DynamiteModule$DynamiteLoaderClassLoader: DynamiteModule$DynamiteLoaderClassLoader()
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzP()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: int getSerializedSize()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: ExtensionWindowLayoutInfoBackend$MulticastConsumer(android.app.Activity)
+androidx.window.layout.DisplayFeature: android.graphics.Rect getBounds()
+io.flutter.embedding.engine.FlutterJNI: void nativeInit(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+com.google.android.gms.common.util.AndroidUtilsLight: byte[] getPackageCertificateHashBytes(android.content.Context,java.lang.String)
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzO()
+androidx.window.embedding.SplitPairFilter: java.lang.String toString()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiOverlay valueOf(java.lang.String)
+com.google.android.gms.common.internal.GetServiceRequest: GetServiceRequest(int,int,int,java.lang.String,android.os.IBinder,com.google.android.gms.common.api.Scope[],android.os.Bundle,android.accounts.Account,com.google.android.gms.common.Feature[],com.google.android.gms.common.Feature[],boolean,int,boolean,java.lang.String)
+androidx.window.embedding.SplitController$Companion: SplitController$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus: com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus valueOf(java.lang.String)
+androidx.window.R$attr: R$attr()
+io.flutter.view.AccessibilityBridge$AccessibilityFeature: io.flutter.view.AccessibilityBridge$AccessibilityFeature valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityPairPredicates$lambda-1(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+androidx.window.embedding.EmbeddingCompat: EmbeddingCompat(androidx.window.extensions.embedding.ActivityEmbeddingComponent,androidx.window.embedding.EmbeddingAdapter)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: boolean access$300(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+com.google.android.gms.internal.measurement.zzbn: boolean onTransact(int,android.os.Parcel,android.os.Parcel,int)
+androidx.window.embedding.EmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityResumed(com.google.android.gms.dynamic.IObjectWrapper,long)
+kotlin.jvm.internal.FunctionReference: FunctionReference(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+com.google.android.gms.internal.measurement.zzlz: com.google.android.gms.internal.measurement.zzmf zzb(java.lang.Class)
+io.flutter.embedding.android.FlutterSurfaceView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons valueOf(java.lang.String)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+androidx.window.layout.DisplayCompatHelperApi17: void getRealSize(android.view.Display,android.graphics.Point)
+androidx.window.embedding.SplitController: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.engine.FlutterJNI: void nativeDispatchSemanticsAction(long,int,int,java.nio.ByteBuffer,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetAccessibilityFeatures(long,int)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1: WindowInfoTrackerCallbackAdapter$addListener$1$1$invokeSuspend$$inlined$collect$1(androidx.core.util.Consumer)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.PlatformView getView()
+com.google.android.gms.measurement.internal.zzlp: boolean zzah(android.content.Context,java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: void setFlutterNodeParent(android.view.accessibility.AccessibilityNodeInfo,android.view.View,android.view.accessibility.AccessibilityNodeInfo)
+androidx.window.layout.WindowMetricsCalculator: androidx.window.layout.WindowMetrics computeCurrentWindowMetrics(android.app.Activity)
+io.flutter.plugins.firebase.crashlytics.FlutterError: FlutterError(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeRegisterTexture(long,long,java.lang.ref.WeakReference)
+io.flutter.embedding.engine.FlutterJNI: void removeIsDisplayingFlutterUiListener(io.flutter.embedding.engine.renderer.FlutterUiDisplayListener)
+io.flutter.embedding.android.FlutterTextureView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: ExtensionEmbeddingBackend$EmbeddingCallbackImpl(androidx.window.embedding.ExtensionEmbeddingBackend)
+com.google.firebase.sessions.EventType: com.google.firebase.sessions.EventType[] values()
+com.google.android.gms.measurement.AppMeasurement: java.lang.String getAppInstanceId()
+androidx.window.embedding.SplitController: void access$setGlobalInstance$cp(androidx.window.embedding.SplitController)
+com.google.firebase.crashlytics.internal.common.CommonUtils$Architecture: com.google.firebase.crashlytics.internal.common.CommonUtils$Architecture[] values()
+com.google.android.gms.internal.measurement.zznl: int zzb()
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageResponseCallback(int,java.nio.ByteBuffer,int)
+io.flutter.view.AccessibilityViewEmbedder: void copyAccessibilityFields(android.view.accessibility.AccessibilityNodeInfo,android.view.accessibility.AccessibilityNodeInfo)
+com.google.firebase.analytics.FirebaseAnalytics: com.google.android.gms.measurement.internal.zzil getScionFrontendApiImplementation(android.content.Context,android.os.Bundle)
+androidx.window.embedding.SplitPairFilter: SplitPairFilter(android.content.ComponentName,android.content.ComponentName,java.lang.String)
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType valueOf(java.lang.String)
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConsentThirdParty(android.os.Bundle,long)
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcelable)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,io.flutter.view.AccessibilityBridge$Action,java.lang.Object)
+com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus: com.google.firebase.installations.local.PersistedInstallation$RegistrationStatus[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: FlutterSplashView$SavedState(android.os.Parcel)
+com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar: AnalyticsConnectorRegistrar()
+com.google.android.gms.internal.measurement.zzmr: boolean add(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceChanged(int,int)
+androidx.window.layout.ExtensionInterfaceCompat: void setExtensionCallback(androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface)
+com.google.android.gms.measurement.AppMeasurement: java.util.Map getUserProperties(java.lang.String,java.lang.String,boolean)
+io.flutter.embedding.engine.plugins.lifecycle.HiddenLifecycleReference: HiddenLifecycleReference(androidx.lifecycle.Lifecycle)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logEvent(java.lang.String,java.lang.String,android.os.Bundle,boolean,boolean,long)
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: void ensureCapacity()
+androidx.window.embedding.SplitPlaceholderRule: SplitPlaceholderRule(java.util.Set,android.content.Intent,int,int,float,int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: ImeSyncDeferringInsetsCallback$AnimationCallback(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setConsent(android.os.Bundle,long)
+kotlinx.coroutines.internal.ThreadSafeHeap: kotlinx.coroutines.internal.ThreadSafeHeapNode firstImpl()
+androidx.window.layout.SidecarAdapter: java.util.List translate(java.util.List,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.measurement.internal.zzlp: int zzl(java.lang.String)
+com.google.android.gms.internal.measurement.zzlm: com.google.android.gms.internal.measurement.zzlm[] values()
+androidx.window.embedding.EmbeddingAdapter: boolean translateIntentPredicates$lambda-8(java.util.Set,android.content.Intent)
+androidx.window.embedding.SplitRule: boolean equals(java.lang.Object)
+androidx.datastore.preferences.protobuf.ProtobufArrayList: java.lang.Object set(int,java.lang.Object)
+androidx.window.layout.SidecarCompat$TranslatingCallback: SidecarCompat$TranslatingCallback(androidx.window.layout.SidecarCompat)
+androidx.window.embedding.ActivityRule: int hashCode()
+androidx.window.core.Version$Companion: androidx.window.core.Version parse(java.lang.String)
+io.flutter.embedding.engine.FlutterOverlaySurface: FlutterOverlaySurface(int,android.view.Surface)
+io.flutter.embedding.engine.FlutterJNI: void dispatchPointerDataPacket(java.nio.ByteBuffer,int)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: BaseContinuationImpl(kotlin.coroutines.Continuation)
+androidx.window.embedding.SplitPairRule: SplitPairRule(java.util.Set,boolean,boolean,boolean,int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetTop(android.view.DisplayCutout)
+androidx.window.embedding.SplitPairRule: androidx.window.embedding.SplitPairRule plus$window_release(androidx.window.embedding.SplitPairFilter)
+androidx.window.embedding.ActivityRule: androidx.window.embedding.ActivityRule plus$window_release(androidx.window.embedding.ActivityFilter)
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: void onViewDetachedFromWindow(android.view.View)
+androidx.collection.SimpleArrayMap: void clear()
+androidx.datastore.preferences.protobuf.ManifestSchemaFactory$CompositeMessageInfoFactory: boolean isSupported(java.lang.Class)
+com.google.android.gms.internal.measurement.zzmr: java.lang.Object set(int,java.lang.Object)
+androidx.window.layout.WindowMetricsCalculator$Companion$overrideDecorator$1: WindowMetricsCalculator$Companion$overrideDecorator$1(java.lang.Object)
+com.google.android.datatransport.cct.internal.QosTier: com.google.android.datatransport.cct.internal.QosTier valueOf(java.lang.String)
+kotlin.jvm.internal.CallableReference: java.lang.Object call(java.lang.Object[])
+kotlin.coroutines.jvm.internal.ContinuationImpl: kotlin.coroutines.Continuation intercepted()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.Object invokeSuspend(java.lang.Object)
+io.flutter.embedding.engine.FlutterJNI: void nativeMarkTextureFrameAvailable(long,long)
+io.flutter.embedding.engine.FlutterJNI: void onBeginFrame()
+android.support.v4.app.RemoteActionCompatParcelizer: androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)
+io.flutter.embedding.engine.FlutterJNI: void markTextureFrameAvailable(long)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode valueOf(java.lang.String)
+io.flutter.view.AccessibilityBridge$Flag: io.flutter.view.AccessibilityBridge$Flag valueOf(java.lang.String)
+android.support.v4.graphics.drawable.IconCompatParcelizer: void write(androidx.core.graphics.drawable.IconCompat,androidx.versionedparcelable.VersionedParcel)
+androidx.window.layout.SidecarCompat$DistinctSidecarElementCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+androidx.window.embedding.ExtensionEmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCurrentScreenClass(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$700(io.flutter.embedding.android.FlutterSplashView$SavedState)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection[] values()
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzR()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setEventInterceptor(com.google.android.gms.internal.measurement.zzci)
+io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState: io.flutter.embedding.engine.renderer.FlutterRenderer$DisplayFeatureState[] values()
+io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness: io.flutter.embedding.engine.systemchannels.SettingsChannel$PlatformBrightness valueOf(java.lang.String)
+com.google.firebase.analytics.connector.internal.zzc: <clinit>()
+io.flutter.plugins.firebase.analytics.FlutterFirebaseAppRegistrar: FlutterFirebaseAppRegistrar()
+io.flutter.plugins.pathprovider.Messages$StorageDirectory: io.flutter.plugins.pathprovider.Messages$StorageDirectory valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat: androidx.window.layout.ExtensionInterfaceCompat$ExtensionCallbackInterface access$getExtensionCallback$p(androidx.window.layout.SidecarCompat)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorView: void setOnDescendantFocusChangeListener(android.view.View$OnFocusChangeListener)
+com.google.android.gms.measurement.AppMeasurement: com.google.android.gms.measurement.AppMeasurement getInstance(android.content.Context)
+androidx.window.layout.SidecarAdapter: java.lang.String access$getTAG$cp()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logHealthData(int,java.lang.String,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.dynamic.IObjectWrapper)
+kotlin.jvm.internal.Lambda: Lambda(int)
+io.flutter.embedding.engine.FlutterJNI: void onVsync(long,long,long)
+androidx.window.layout.SidecarAdapter$Companion: java.util.List getSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void addListener(androidx.core.util.Consumer)
+androidx.window.layout.ExtensionInterfaceCompat: boolean validateExtensionInterface()
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateActivityIntentPredicates(java.util.Set)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void logEventAndBundle(java.lang.String,java.lang.String,android.os.Bundle,com.google.android.gms.internal.measurement.zzcf,long)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void getTransformMatrix(float[])
+androidx.window.core.Bounds: boolean isEmpty()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: java.util.List getMutators()
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDisplayFeatures(java.util.List,java.util.List)
+io.flutter.view.AccessibilityBridge$StringAttributeType: io.flutter.view.AccessibilityBridge$StringAttributeType[] values()
+com.google.firebase.crashlytics.internal.common.CommonUtils$Architecture: com.google.firebase.crashlytics.internal.common.CommonUtils$Architecture valueOf(java.lang.String)
+com.google.android.gms.common.GoogleSignatureVerifier: boolean zzb(android.content.pm.PackageInfo,boolean)
+androidx.collection.SimpleArrayMap: int hashCode()
+com.google.firebase.datatransport.TransportRegistrar: TransportRegistrar()
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: FlutterFirebaseCoreRegistrar()
+androidx.window.layout.ExtensionsWindowLayoutInfoAdapter: androidx.window.layout.WindowLayoutInfo translate$window_release(android.app.Activity,androidx.window.extensions.layout.WindowLayoutInfo)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivitySaveInstanceState(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.internal.measurement.zzcf,long)
+androidx.window.layout.DisplayCompatHelperApi17: DisplayCompatHelperApi17()
+kotlinx.coroutines.flow.internal.AbstractSharedFlow: kotlinx.coroutines.flow.internal.AbstractSharedFlowSlot allocateSlot()
+com.google.android.gms.measurement.internal.zzlp: void zzX(java.lang.String,java.lang.String,java.lang.String,android.os.Bundle,java.util.List,boolean)
+androidx.datastore.preferences.protobuf.ProtobufArrayList: boolean add(java.lang.Object)
+androidx.window.layout.EmptyDecorator: EmptyDecorator()
+androidx.datastore.preferences.protobuf.WireFormat$JavaType: androidx.datastore.preferences.protobuf.WireFormat$JavaType[] values()
+com.google.android.gms.internal.measurement.zzbn: android.os.IBinder asBinder()
+androidx.collection.SimpleArrayMap: java.lang.Object setValueAt(int,java.lang.Object)
+io.flutter.plugin.editing.TextInputPlugin: void updateAutofillConfigurationIfNeeded(io.flutter.embedding.engine.systemchannels.TextInputChannel$Configuration)
+kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState: kotlinx.coroutines.scheduling.CoroutineScheduler$WorkerState valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: ExtensionEmbeddingBackend$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke[] values()
+androidx.window.embedding.SplitPlaceholderRule: boolean equals(java.lang.Object)
+androidx.window.embedding.ExtensionEmbeddingBackend: androidx.window.embedding.EmbeddingInterfaceCompat getEmbeddingExtension()
+androidx.datastore.preferences.protobuf.FieldType: androidx.datastore.preferences.protobuf.FieldType valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: android.view.WindowInsets onProgress(android.view.WindowInsets,java.util.List)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetLeft(android.view.DisplayCutout)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getAppInstanceId(com.google.android.gms.internal.measurement.zzcf)
+io.flutter.embedding.engine.FlutterOverlaySurface: int getId()
+androidx.datastore.preferences.PreferencesProto$Value$ValueCase: androidx.datastore.preferences.PreferencesProto$Value$ValueCase[] values()
+io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar: java.util.List getComponents()
+io.flutter.embedding.engine.FlutterJNI: void handlePlatformMessageResponse(int,java.nio.ByteBuffer)
+com.google.firebase.remoteconfig.RemoteConfigRegistrar: com.google.firebase.remoteconfig.RemoteConfigComponent lambda$getComponents$0(com.google.firebase.components.Qualified,com.google.firebase.components.ComponentContainer)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.String toString()
+androidx.window.embedding.ActivityRule: boolean equals(java.lang.Object)
+androidx.collection.SimpleArrayMap: SimpleArrayMap(int)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.ExtensionEmbeddingBackend getInstance()
+androidx.window.embedding.SplitController: void clearRegisteredRules()
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType: io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack$FlutterMutatorType valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: void onLowMemory()
+androidx.window.embedding.SplitPairFilter: int hashCode()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+io.flutter.embedding.android.FlutterView: io.flutter.embedding.android.FlutterImageView getCurrentImageSurface()
+androidx.window.layout.DisplayCompatHelperApi28: DisplayCompatHelperApi28()
+com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType: com.google.android.datatransport.cct.internal.NetworkConnectionInfo$NetworkType valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingBackend: void registerRule(androidx.window.embedding.EmbeddingRule)
+kotlin.jvm.internal.CallableReference: java.lang.String getSignature()
+com.google.android.gms.measurement.internal.zzeo: java.lang.String zze(java.lang.String)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void releaseIntercepted()
+androidx.versionedparcelable.CustomVersionedParcelable: CustomVersionedParcelable()
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceCreated(long,android.view.Surface)
+androidx.window.embedding.ActivityStack: java.util.List getActivities$window_release()
+androidx.window.embedding.EmbeddingCompat$Companion: androidx.window.extensions.embedding.ActivityEmbeddingComponent embeddingComponent()
+com.google.firebase.concurrent.SequentialExecutor$WorkerRunningState: com.google.firebase.concurrent.SequentialExecutor$WorkerRunningState[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: java.lang.Object invoke(kotlinx.coroutines.CoroutineScope,kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: void dispatchSemanticsAction(int,int,java.nio.ByteBuffer,int)
+androidx.window.layout.SidecarWindowBackend: androidx.window.layout.ExtensionInterfaceCompat getWindowExtension()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: android.app.Activity getActivity()
+com.google.android.gms.internal.measurement.zzoa: com.google.android.gms.internal.measurement.zzoa[] values()
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: WindowInfoTrackerCallbackAdapter$addListener$1$1(kotlinx.coroutines.flow.Flow,androidx.core.util.Consumer,kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: void prefetchDefaultFontManager()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType: io.flutter.embedding.engine.systemchannels.PlatformChannel$SoundType valueOf(java.lang.String)
+io.flutter.embedding.android.FlutterSplashView$SavedState: android.os.Bundle access$702(io.flutter.embedding.android.FlutterSplashView$SavedState,android.os.Bundle)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityCreated(com.google.android.gms.dynamic.IObjectWrapper,android.os.Bundle,long)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invokeSuspend(java.lang.Object)
+androidx.window.embedding.EmbeddingAdapter: java.util.function.Predicate translateIntentPredicates(java.util.Set)
+androidx.window.core.Version$bigInteger$2: java.math.BigInteger invoke()
+androidx.window.embedding.EmbeddingCompat: void setSplitRules(java.util.Set)
+com.google.android.gms.common.GoogleSignatureVerifier: com.google.android.gms.common.zzj zza(android.content.pm.PackageInfo,com.google.android.gms.common.zzj[])
+androidx.window.layout.SidecarWindowBackend: SidecarWindowBackend(androidx.window.layout.ExtensionInterfaceCompat)
+androidx.window.embedding.ActivityRule: boolean getAlwaysExpand()
+androidx.window.layout.WindowInfoTracker$-CC: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback$AnimationCallback: void onPrepare(android.view.WindowInsetsAnimation)
+androidx.window.layout.HardwareFoldingFeature: androidx.window.layout.HardwareFoldingFeature$Type getType$window_release()
+androidx.window.core.Version: androidx.window.core.Version parse(java.lang.String)
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke: androidx.datastore.preferences.protobuf.GeneratedMessageLite$MethodToInvoke valueOf(java.lang.String)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: SurfaceTextureWrapper(android.graphics.SurfaceTexture,java.lang.Runnable)
+io.flutter.embedding.engine.FlutterJNI: void nativeLoadDartDeferredLibrary(long,int,java.lang.String[])
+io.flutter.view.AccessibilityBridge$Action: io.flutter.view.AccessibilityBridge$Action[] values()
+com.google.android.datatransport.cct.CctBackendFactory: CctBackendFactory()
+androidx.window.layout.SidecarCompat: void onWindowLayoutChangeListenerAdded(android.app.Activity)
+androidx.window.embedding.EmptyEmbeddingComponent: EmptyEmbeddingComponent()
+androidx.datastore.preferences.protobuf.MessageSchema: androidx.datastore.preferences.protobuf.Internal$EnumVerifier getEnumFieldVerifier(int)
+androidx.window.R$id: R$id()
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterSplitListenerForActivity(androidx.core.util.Consumer)
+com.google.android.datatransport.runtime.firebase.transport.LogEventDropped$Reason: com.google.android.datatransport.runtime.firebase.transport.LogEventDropped$Reason[] values()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept(androidx.window.layout.WindowLayoutInfo)
+androidx.window.core.Bounds: int getHeight()
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointVariantSelector(int)
+kotlin.coroutines.jvm.internal.SuspendLambda: SuspendLambda(int,kotlin.coroutines.Continuation)
+com.google.android.datatransport.cct.internal.ClientInfo$ClientType: com.google.android.datatransport.cct.internal.ClientInfo$ClientType valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeSetSemanticsEnabled(long,boolean)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmoji(int)
+kotlin.reflect.KVisibility: kotlin.reflect.KVisibility valueOf(java.lang.String)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.WindowInsets access$400(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback)
+androidx.window.core.Version$bigInteger$2: java.lang.Object invoke()
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDisplayFeatures(androidx.window.sidecar.SidecarWindowLayoutInfo,java.util.List)
+androidx.window.layout.SidecarCompat$Companion: android.os.IBinder getActivityWindowToken$window_release(android.app.Activity)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setMeasurementEnabled(boolean,long)
+com.google.firebase.analytics.FirebaseAnalytics: java.lang.String getFirebaseInstanceId()
+com.google.android.gms.measurement.AppMeasurement: void clearConditionalUserProperty(java.lang.String,java.lang.String,android.os.Bundle)
+com.google.android.datatransport.Priority: com.google.android.datatransport.Priority[] values()
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind[] values()
+io.flutter.embedding.engine.FlutterJNI: void init(android.content.Context,java.lang.String[],java.lang.String,java.lang.String,java.lang.String,long)
+androidx.window.layout.SidecarWindowBackend$Companion: void resetInstance()
+androidx.window.embedding.ActivityFilter: boolean equals(java.lang.Object)
+io.flutter.plugins.firebase.crashlytics.FirebaseCrashlyticsTestCrash: FirebaseCrashlyticsTestCrash()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness: io.flutter.embedding.engine.systemchannels.PlatformChannel$Brightness valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend$ExtensionListenerImpl: SidecarWindowBackend$ExtensionListenerImpl(androidx.window.layout.SidecarWindowBackend)
+androidx.window.layout.HardwareFoldingFeature$Type: java.lang.String toString()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: void resumeWith(java.lang.Object)
+androidx.window.layout.ActivityCompatHelperApi24: ActivityCompatHelperApi24()
+androidx.window.layout.SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1: SidecarCompat$registerConfigurationChangeListener$configChangeObserver$1(androidx.window.layout.SidecarCompat,android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: void setAccessibilityDelegate(io.flutter.embedding.engine.FlutterJNI$AccessibilityDelegate)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType valueOf(java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$Companion$reset$1: WindowMetricsCalculator$Companion$reset$1()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.CopyOnWriteArrayList getSplitChangeCallbacks()
+com.google.firebase.analytics.FirebaseAnalytics: com.google.firebase.analytics.FirebaseAnalytics getInstance(android.content.Context)
+androidx.collection.SimpleArrayMap: java.lang.Object keyAt(int)
+androidx.window.layout.HardwareFoldingFeature: HardwareFoldingFeature(androidx.window.core.Bounds,androidx.window.layout.HardwareFoldingFeature$Type,androidx.window.layout.FoldingFeature$State)
+androidx.window.layout.WindowInfoTracker$Companion: void reset()
+com.google.android.gms.common.internal.BaseGmsClient: void getRemoteService(com.google.android.gms.common.internal.IAccountAccessor,java.util.Set)
+io.flutter.embedding.engine.FlutterJNI: java.lang.String[] computePlatformResolvedLocale(java.lang.String[])
+androidx.collection.SimpleArrayMap: int indexOfNull()
+io.flutter.plugins.firebase.crashlytics.FlutterFirebaseAppRegistrar: FlutterFirebaseAppRegistrar()
+io.flutter.embedding.engine.FlutterJNI: void cleanupMessageData(long)
+io.flutter.view.AccessibilityBridge$TextDirection: io.flutter.view.AccessibilityBridge$TextDirection valueOf(java.lang.String)
+io.flutter.view.AccessibilityViewEmbedder: boolean onAccessibilityHoverEvent(int,android.view.MotionEvent)
+com.google.android.gms.internal.measurement.zzmr: java.lang.Object get(int)
+androidx.window.layout.SidecarAdapter$Companion: androidx.window.layout.DisplayFeature translate$window_release(androidx.window.sidecar.SidecarDisplayFeature,androidx.window.sidecar.SidecarDeviceState)
+com.google.android.gms.internal.measurement.zzix: com.google.android.gms.internal.measurement.zzja zzb()
+com.google.android.gms.internal.measurement.zzjf: boolean contains(java.lang.Object)
+com.google.android.gms.measurement.internal.zzhb: com.google.android.gms.measurement.internal.zzhb zzc(java.lang.String,int)
+com.google.android.gms.dynamite.descriptors.com.google.android.gms.measurement.dynamite.ModuleDescriptor: ModuleDescriptor()
+androidx.window.R: R()
+io.flutter.util.ViewUtils$$InternalSyntheticLambda$1$c0aa1774cd8831658692c914ac238b83368f5d4eb3adf605ed1d77e75423b804$0: boolean run(android.view.View)
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: int hashCode()
+androidx.window.layout.ActivityCompatHelperApi24: boolean isInMultiWindowMode(android.app.Activity)
+kotlinx.coroutines.channels.BufferOverflow: kotlinx.coroutines.channels.BufferOverflow[] values()
+io.flutter.embedding.android.KeyEmbedderResponder: void synchronizePressingKey(io.flutter.embedding.android.KeyboardMap$PressingGoal,boolean,long,long,android.view.KeyEvent,java.util.ArrayList)
+io.flutter.embedding.android.FlutterImageView$SurfaceKind: io.flutter.embedding.android.FlutterImageView$SurfaceKind valueOf(java.lang.String)
+com.google.firebase.datatransport.TransportRegistrar: com.google.android.datatransport.TransportFactory lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+androidx.window.layout.DisplayCompatHelperApi28: int safeInsetRight(android.view.DisplayCutout)
+androidx.window.layout.WindowMetricsCalculatorCompat: android.graphics.Rect computeWindowBoundsQ$window_release(android.app.Activity)
+androidx.datastore.preferences.protobuf.WireFormat$FieldType: androidx.datastore.preferences.protobuf.WireFormat$FieldType valueOf(java.lang.String)
+androidx.window.embedding.ExtensionEmbeddingBackend$SplitListenerWrapper: androidx.core.util.Consumer getCallback()
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceWindowChanged(android.view.Surface)
+com.google.android.gms.internal.measurement.zznl: int zza()
+com.google.firebase.concurrent.UiExecutor: com.google.firebase.concurrent.UiExecutor[] values()
+com.google.firebase.crashlytics.internal.stacktrace.MiddleOutFallbackStrategy: java.lang.StackTraceElement[] getTrimmedStackTrace(java.lang.StackTraceElement[])
+androidx.window.layout.SidecarAdapter: androidx.window.layout.WindowLayoutInfo translate(androidx.window.sidecar.SidecarWindowLayoutInfo,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.core.Version: int getPatch()
+io.flutter.plugins.firebase.core.FlutterFirebasePlugin: com.google.android.gms.tasks.Task getPluginConstantsForFirebaseApp(com.google.firebase.FirebaseApp)
+androidx.window.core.Bounds: int getLeft()
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: void onSplitInfoChanged(java.util.List)
+androidx.window.core.Bounds: boolean equals(java.lang.Object)
+com.google.android.gms.internal.measurement.zznl: com.google.android.gms.internal.measurement.zznl zze(com.google.android.gms.internal.measurement.zznl,com.google.android.gms.internal.measurement.zznl)
+androidx.window.embedding.ExtensionEmbeddingBackend$EmbeddingCallbackImpl: java.util.List getLastInfo()
+androidx.window.embedding.SplitController: void removeSplitListener(androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void ensureNotAttachedToNative()
+androidx.window.embedding.MatcherUtils: boolean areActivityOrIntentComponentsMatching$window_release(android.app.Activity,android.content.ComponentName)
+com.google.android.gms.internal.measurement.zzml: java.lang.Object zzC(int)
+io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback: android.view.View access$602(io.flutter.plugin.editing.ImeSyncDeferringInsetsCallback,android.view.View)
+com.google.android.gms.measurement.AppMeasurement: void endAdUnitExposure(java.lang.String)
+androidx.window.layout.WindowMetricsCalculator$Companion: void overrideDecorator(androidx.window.layout.WindowMetricsCalculatorDecorator)
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo createAccessibilityNodeInfo(int)
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides[] values()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void beginAdUnitExposure(java.lang.String,long)
+com.google.android.gms.internal.measurement.zzjf: com.google.android.gms.internal.measurement.zzja zzh()
+androidx.window.layout.WindowBackend: void unregisterLayoutChangeCallback(androidx.core.util.Consumer)
+kotlin.jvm.internal.FunctionReference: kotlin.reflect.KCallable computeReflected()
+androidx.window.layout.HardwareFoldingFeature: android.graphics.Rect getBounds()
+com.google.android.gms.common.GooglePlayServicesMissingManifestValueException: GooglePlayServicesMissingManifestValueException()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: FlutterFirebasePluginRegistry()
+androidx.window.layout.WindowInfoTrackerImpl$Companion: WindowInfoTrackerImpl$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: boolean isEmpty()
+androidx.window.embedding.SplitRule: int getLayoutDirection()
+androidx.window.embedding.EmbeddingAdapter: EmbeddingAdapter()
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KType getReturnType()
+io.flutter.embedding.engine.FlutterJNI: void detachFromNativeAndReleaseResources()
+androidx.window.layout.ExtensionWindowLayoutInfoBackend: ExtensionWindowLayoutInfoBackend(androidx.window.extensions.layout.WindowLayoutComponent)
+com.google.android.gms.internal.measurement.zzje: int zza(java.lang.Object[],int)
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection valueOf(java.lang.String)
+androidx.window.java.layout.WindowInfoTrackerCallbackAdapter$addListener$1$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+io.flutter.embedding.engine.FlutterJNI: boolean isCodePointEmojiModifier(int)
+io.flutter.embedding.engine.mutatorsstack.FlutterMutatorsStack: void pushClipRRect(int,int,int,int,float[])
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzQ()
+com.google.firebase.provider.FirebaseInitProvider: FirebaseInitProvider()
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.CopyOnWriteArrayList getWindowLayoutChangeCallbacks()
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void lambda$getPluginConstantsForFirebaseApp$0(com.google.firebase.FirebaseApp,com.google.android.gms.tasks.TaskCompletionSource)
+io.flutter.embedding.engine.FlutterJNI: void setLocalizationPlugin(io.flutter.plugin.localization.LocalizationPlugin)
+androidx.window.embedding.ActivityFilter: java.lang.String toString()
+androidx.datastore.preferences.protobuf.UnknownFieldSetLite: void writeTo(androidx.datastore.preferences.protobuf.Writer)
+io.flutter.embedding.engine.FlutterJNI: void onDisplayOverlaySurface(int,int,int,int,int)
+io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType: io.flutter.embedding.engine.systemchannels.TextInputChannel$TextInputType[] values()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: void invokeSuspend$lambda-0(kotlinx.coroutines.channels.Channel,androidx.window.layout.WindowLayoutInfo)
+com.google.firebase.installations.FirebaseInstallationsException$Status: com.google.firebase.installations.FirebaseInstallationsException$Status valueOf(java.lang.String)
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onWindowLayoutChanged(android.os.IBinder,androidx.window.sidecar.SidecarWindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceChanged(long,int,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void clearMeasurementEnabled(long)
+com.google.android.gms.internal.measurement.zzmr: java.lang.Object remove(int)
+androidx.core.app.CoreComponentFactory: CoreComponentFactory()
+kotlin.coroutines.intrinsics.CoroutineSingletons: kotlin.coroutines.intrinsics.CoroutineSingletons[] values()
+io.flutter.embedding.android.FlutterSplashView$SavedState: void writeToParcel(android.os.Parcel,int)
+androidx.collection.SimpleArrayMap: void freeArrays(int[],java.lang.Object[],int)
+androidx.collection.SimpleArrayMap: void allocArrays(int)
+com.google.firebase.crashlytics.internal.common.CrashlyticsReportDataCapture: com.google.firebase.crashlytics.internal.model.ImmutableList populateThreadsList(com.google.firebase.crashlytics.internal.stacktrace.TrimmedThrowableData,java.lang.Thread,int,boolean)
+io.flutter.plugins.firebase.core.FlutterFirebasePluginRegistry: void registerPlugin(java.lang.String,io.flutter.plugins.firebase.core.FlutterFirebasePlugin)
+androidx.window.layout.WindowInfoTracker$-CC: androidx.window.layout.WindowInfoTracker getOrCreate(android.content.Context)
+com.google.android.gms.common.api.internal.LifecycleCallback: com.google.android.gms.common.api.internal.LifecycleFragment getChimeraLifecycleFragmentImpl(com.google.android.gms.common.api.internal.LifecycleActivity)
+io.flutter.plugin.editing.TextInputPlugin: void onProvideAutofillVirtualStructure(android.view.ViewStructure,int)
+androidx.core.content.ContextCompat$Api24Impl: android.content.Context createDeviceProtectedStorageContext(android.content.Context)
+com.google.android.gms.measurement.internal.zzlp: int zza(java.lang.String,java.lang.String,java.lang.String,java.lang.Object,android.os.Bundle,java.util.List,boolean,boolean)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void initialize(com.google.android.gms.dynamic.IObjectWrapper,com.google.android.gms.internal.measurement.zzcl,long)
+com.google.firebase.installations.FirebaseInstallationsException$Status: com.google.firebase.installations.FirebaseInstallationsException$Status[] values()
+androidx.window.core.Version: java.lang.String getDescription()
+io.flutter.embedding.engine.FlutterJNI: io.flutter.view.FlutterCallbackInformation nativeLookupCallbackInformation(long)
+com.google.firebase.ktx.FirebaseCommonKtxRegistrar: java.util.List getComponents()
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: kotlin.coroutines.Continuation create(java.lang.Object,kotlin.coroutines.Continuation)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getTestFlag(com.google.android.gms.internal.measurement.zzcf,int)
+androidx.window.embedding.SplitRuleParser: SplitRuleParser()
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,kotlin.reflect.KDeclarationContainer,java.lang.String,java.lang.String)
+androidx.window.embedding.SplitController: void setStaticSplitRules(java.util.Set)
+androidx.window.embedding.EmbeddingBackend: void registerSplitListenerForActivity(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+io.flutter.embedding.engine.FlutterJNI: void ensureRunningOnMainThread()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getGmpAppId(com.google.android.gms.internal.measurement.zzcf)
+androidx.window.core.Version$Companion: androidx.window.core.Version getCURRENT()
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void generateEventId(com.google.android.gms.internal.measurement.zzcf)
+androidx.window.layout.WindowMetricsCalculatorCompat: void getRectSizeFromDisplay(android.app.Activity,android.graphics.Rect)
+androidx.window.embedding.EmbeddingAdapter: java.lang.Object component1(android.util.Pair)
+androidx.window.layout.FoldingFeature$OcclusionType: FoldingFeature$OcclusionType(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void nativeDeferredComponentInstallFailure(int,java.lang.String,boolean)
+androidx.window.layout.ExtensionWindowLayoutInfoBackend$MulticastConsumer: void accept(androidx.window.extensions.layout.WindowLayoutInfo)
+io.flutter.embedding.engine.FlutterJNI: void requestDartDeferredLibrary(int)
+androidx.window.layout.SidecarAdapter$Companion: void setSidecarDevicePosture(androidx.window.sidecar.SidecarDeviceState,int)
+androidx.window.embedding.EmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageResponseCallback(long,int,java.nio.ByteBuffer,int)
+androidx.window.core.Bounds: int getRight()
+androidx.window.embedding.EmbeddingCompat$Companion: boolean isEmbeddingAvailable()
+io.flutter.embedding.engine.FlutterJNI: void loadDartDeferredLibrary(int,java.lang.String[])
+androidx.window.embedding.ActivityRule: ActivityRule(java.util.Set,boolean)
+kotlin.jvm.internal.Lambda: int getArity()
+androidx.window.layout.FoldingFeature$Orientation: java.lang.String toString()
+androidx.window.core.Version$bigInteger$2: Version$bigInteger$2(androidx.window.core.Version)
+androidx.window.layout.SidecarWindowBackend: void registerLayoutChangeCallback(android.app.Activity,java.util.concurrent.Executor,androidx.core.util.Consumer)
+androidx.window.embedding.SplitRule$Api30Impl: android.graphics.Rect getBounds(android.view.WindowMetrics)
+androidx.collection.SimpleArrayMap: void ensureCapacity(int)
+androidx.window.embedding.ExtensionEmbeddingBackend$Companion: androidx.window.embedding.EmbeddingInterfaceCompat initAndVerifyEmbeddingExtension()
+com.google.android.gms.measurement.internal.zzak: void zzB(java.lang.String,java.util.List)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder valueOf(java.lang.String)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType valueOf(java.lang.String)
+androidx.window.embedding.EmbeddingBackend: java.util.Set getSplitRules()
+androidx.window.layout.SidecarWindowBackend: void getWindowLayoutChangeCallbacks$annotations()
+kotlinx.coroutines.flow.StateFlowSlot: kotlin.coroutines.Continuation[] freeLocked(kotlinx.coroutines.flow.StateFlowImpl)
+io.flutter.embedding.android.RenderMode: io.flutter.embedding.android.RenderMode[] values()
+com.google.firebase.remoteconfig.FirebaseRemoteConfigException$Code: com.google.firebase.remoteconfig.FirebaseRemoteConfigException$Code[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: void access$setGlobalInstance$cp(androidx.window.embedding.ExtensionEmbeddingBackend)
+androidx.window.embedding.SplitController: SplitController()
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void release()
+androidx.window.core.Version: boolean equals(java.lang.Object)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void onActivityStopped(com.google.android.gms.dynamic.IObjectWrapper,long)
+kotlin.jvm.internal.FunctionReferenceImpl: FunctionReferenceImpl(int,java.lang.Object,java.lang.Class,java.lang.String,java.lang.String,int)
+io.flutter.embedding.engine.renderer.SurfaceTextureWrapper: void updateTexImage()
+com.google.android.gms.internal.measurement.zzje: java.lang.Object[] zze()
+io.flutter.view.AccessibilityViewEmbedder: boolean requestSendAccessibilityEvent(android.view.View,android.view.View,android.view.accessibility.AccessibilityEvent)
+androidx.window.layout.FoldingFeature: androidx.window.layout.FoldingFeature$Orientation getOrientation()
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax[] values()
+com.google.firebase.crashlytics.internal.settings.SettingsCacheBehavior: com.google.firebase.crashlytics.internal.settings.SettingsCacheBehavior valueOf(java.lang.String)
+com.google.firebase.sessions.api.SessionSubscriber$Name: com.google.firebase.sessions.api.SessionSubscriber$Name[] values()
+androidx.window.embedding.SplitInfo: boolean equals(java.lang.Object)
+com.google.android.gms.measurement.AppMeasurement: java.util.List getConditionalUserProperties(java.lang.String,java.lang.String)
+androidx.window.embedding.EmbeddingCompat$Companion: EmbeddingCompat$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.HardwareFoldingFeature: int hashCode()
+io.flutter.embedding.android.FlutterView$ZeroSides: io.flutter.embedding.android.FlutterView$ZeroSides valueOf(java.lang.String)
+com.google.android.gms.measurement.AppMeasurement: void beginAdUnitExposure(java.lang.String)
+com.google.firebase.installations.remote.TokenResult$ResponseCode: com.google.firebase.installations.remote.TokenResult$ResponseCode[] values()
+com.google.android.gms.internal.measurement.zzkt: com.google.android.gms.internal.measurement.zzkt[] values()
+androidx.window.layout.HardwareFoldingFeature$Type$Companion: androidx.window.layout.HardwareFoldingFeature$Type getFOLD()
+com.google.firebase.encoders.proto.Protobuf$IntEncoding: com.google.firebase.encoders.proto.Protobuf$IntEncoding[] values()
+androidx.collection.SimpleArrayMap: int indexOf(java.lang.Object,int)
+androidx.window.core.Bounds: boolean isZero()
+androidx.window.layout.WindowInfoTracker$Companion: void overrideDecorator(androidx.window.layout.WindowInfoTrackerDecorator)
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode: io.flutter.embedding.engine.systemchannels.PlatformChannel$SystemUiMode valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: void onSurfaceCreated(android.view.Surface)
+androidx.window.layout.SidecarCompat$DistinctElementCallback: void onWindowLayoutChanged(android.app.Activity,androidx.window.layout.WindowLayoutInfo)
+com.google.firebase.sessions.LogEnvironment: com.google.firebase.sessions.LogEnvironment[] values()
+androidx.datastore.preferences.protobuf.ProtoSyntax: androidx.datastore.preferences.protobuf.ProtoSyntax valueOf(java.lang.String)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterJNI spawn(java.lang.String,java.lang.String,java.lang.String,java.util.List)
+com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver: AlarmManagerSchedulerBroadcastReceiver()
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void setLastInfo(androidx.window.layout.WindowLayoutInfo)
+androidx.datastore.preferences.protobuf.JavaType: androidx.datastore.preferences.protobuf.JavaType[] values()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat: io.flutter.embedding.engine.systemchannels.PlatformChannel$ClipboardContentFormat valueOf(java.lang.String)
+com.google.android.gms.internal.measurement.zznl: boolean equals(java.lang.Object)
+androidx.window.layout.SidecarCompat: void register(android.os.IBinder,android.app.Activity)
+kotlinx.coroutines.internal.ArrayQueue: java.lang.Object removeFirstOrNull()
+kotlin.jvm.internal.FunctionReference: FunctionReference(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeInvokePlatformMessageEmptyResponseCallback(long,int)
+io.flutter.embedding.engine.FlutterJNI: void nativeSurfaceDestroyed(long)
+androidx.window.layout.SidecarAdapter: boolean isEqualSidecarDeviceState(androidx.window.sidecar.SidecarDeviceState,androidx.window.sidecar.SidecarDeviceState)
+androidx.window.core.Bounds: int getBottom()
+androidx.window.core.Bounds: android.graphics.Rect toRect()
+com.google.android.gms.measurement.internal.zzlp: void zzM(android.os.Parcelable[],int,boolean)
+io.flutter.embedding.engine.FlutterJNI: FlutterJNI()
+com.google.firebase.sessions.FirebaseSessionsRegistrar: com.google.firebase.sessions.FirebaseSessions getComponents$lambda-0(com.google.firebase.components.ComponentContainer)
+com.google.firebase.analytics.FirebaseAnalytics$ConsentType: com.google.firebase.analytics.FirebaseAnalytics$ConsentType[] values()
+androidx.window.layout.WindowInfoTracker$Companion: WindowInfoTracker$Companion()
+androidx.window.embedding.MatcherUtils: MatcherUtils()
+io.flutter.view.AccessibilityViewEmbedder: android.view.accessibility.AccessibilityNodeInfo convertToFlutterNode(android.view.accessibility.AccessibilityNodeInfo,int,android.view.View)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void setUserId(java.lang.String,long)
+io.flutter.embedding.engine.FlutterJNI: void attachToNative()
+kotlin.coroutines.jvm.internal.SuspendLambda: java.lang.String toString()
+androidx.window.layout.WindowLayoutInfo: boolean equals(java.lang.Object)
+androidx.window.layout.WindowLayoutInfo: java.util.List getDisplayFeatures()
+com.google.android.gms.internal.measurement.zznl: void zzj(int,java.lang.Object)
+androidx.window.embedding.SplitPairFilter: boolean matchesActivityPair(android.app.Activity,android.app.Activity)
+com.google.android.gms.internal.measurement.zznl: void zzi(java.lang.StringBuilder,int)
+androidx.collection.ArrayMap$1: java.lang.Object colGetEntry(int,int)
+androidx.window.layout.WindowMetrics: int hashCode()
+androidx.window.embedding.ExtensionEmbeddingBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.embedding.SplitPlaceholderRule: java.util.Set getFilters()
+io.flutter.embedding.engine.FlutterJNI: void invokePlatformMessageEmptyResponseCallback(int)
+io.flutter.embedding.engine.FlutterJNI: void nativeUpdateRefreshRate(float)
+androidx.window.layout.SidecarCompat: androidx.window.layout.SidecarAdapter access$getSidecarAdapter$p(androidx.window.layout.SidecarCompat)
+androidx.window.core.Version: Version(int,int,int,java.lang.String)
+androidx.lifecycle.Lifecycle$Event: androidx.lifecycle.Lifecycle$Event[] values()
+androidx.window.layout.SidecarCompat: void registerConfigurationChangeListener(android.app.Activity)
+io.flutter.plugins.GeneratedPluginRegistrant: GeneratedPluginRegistrant()
+androidx.window.layout.WindowInfoTracker$Companion: androidx.window.layout.WindowBackend windowBackend$window_release(android.content.Context)
+io.flutter.embedding.engine.FlutterJNI: android.graphics.Bitmap decodeImage(java.nio.ByteBuffer,long)
+androidx.collection.SimpleArrayMap: java.lang.Object getOrDefault(java.lang.Object,java.lang.Object)
+io.flutter.plugin.platform.SingleViewPresentation: io.flutter.plugin.platform.SingleViewPresentation$PresentationState detachState()
+androidx.window.embedding.EmbeddingTranslatingCallback: EmbeddingTranslatingCallback(androidx.window.embedding.EmbeddingInterfaceCompat$EmbeddingCallbackInterface,androidx.window.embedding.EmbeddingAdapter)
+androidx.window.embedding.SplitPlaceholderRule: int hashCode()
+com.google.firebase.remoteconfig.RemoteConfigRegistrar: RemoteConfigRegistrar()
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: kotlin.coroutines.jvm.internal.CoroutineStackFrame getCallerFrame()
+androidx.window.embedding.ActivityStack: ActivityStack(java.util.List,boolean)
+androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper: void accept$lambda-0(androidx.window.layout.SidecarWindowBackend$WindowLayoutChangeCallbackWrapper,androidx.window.layout.WindowLayoutInfo)
+io.flutter.embedding.android.FlutterActivity: FlutterActivity()
+com.google.android.datatransport.runtime.backends.TransportBackendDiscovery: TransportBackendDiscovery()
+io.flutter.embedding.engine.FlutterJNI: boolean isAttached()
+androidx.window.layout.SidecarAdapter: SidecarAdapter()
+androidx.window.layout.ExtensionInterfaceCompat: void onWindowLayoutChangeListenerRemoved(android.app.Activity)
+androidx.window.embedding.SplitPairRule: boolean equals(java.lang.Object)
+androidx.window.layout.SidecarAdapter$Companion: SidecarAdapter$Companion()
+androidx.window.layout.WindowInfoTrackerImpl: androidx.window.layout.WindowBackend access$getWindowBackend$p(androidx.window.layout.WindowInfoTrackerImpl)
+kotlin.coroutines.jvm.internal.BaseContinuationImpl: java.lang.StackTraceElement getStackTraceElement()
+com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag: com.google.android.datatransport.runtime.scheduling.jobscheduling.SchedulerConfig$Flag valueOf(java.lang.String)
+androidx.datastore.preferences.protobuf.MessageSchema: java.lang.Object getMapFieldDefaultEntry(int)
+com.google.firebase.installations.remote.TokenResult$ResponseCode: com.google.firebase.installations.remote.TokenResult$ResponseCode valueOf(java.lang.String)
+io.flutter.plugin.platform.SingleViewPresentation: void onCreate(android.os.Bundle)
+androidx.window.layout.SidecarCompat: androidx.window.layout.WindowLayoutInfo getWindowLayoutInfo(android.app.Activity)
+io.flutter.embedding.engine.FlutterJNI: io.flutter.embedding.engine.FlutterOverlaySurface createOverlaySurface()
+io.flutter.embedding.engine.FlutterJNI: void removeEngineLifecycleListener(io.flutter.embedding.engine.FlutterEngine$EngineLifecycleListener)
+com.google.firebase.sessions.FirebaseSessionsRegistrar: FirebaseSessionsRegistrar()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation: io.flutter.embedding.engine.systemchannels.PlatformChannel$DeviceOrientation[] values()
+com.google.firebase.remoteconfig.FirebaseRemoteConfigException$Code: com.google.firebase.remoteconfig.FirebaseRemoteConfigException$Code valueOf(java.lang.String)
+androidx.window.embedding.SplitController$Companion: androidx.window.embedding.SplitController getInstance()
+androidx.window.embedding.EmbeddingRule: EmbeddingRule()
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzM()
+io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType: io.flutter.embedding.engine.systemchannels.PlatformChannel$HapticFeedbackType[] values()
+com.google.firebase.installations.FirebaseInstallationsRegistrar: com.google.firebase.installations.FirebaseInstallationsApi lambda$getComponents$0(com.google.firebase.components.ComponentContainer)
+androidx.window.core.Version$Companion: androidx.window.core.Version getVERSION_0_1()
+androidx.window.embedding.SplitRule: SplitRule(int,int,float,int,int,kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.window.layout.WindowMetricsCalculatorDecorator: androidx.window.layout.WindowMetricsCalculator decorate(androidx.window.layout.WindowMetricsCalculator)
+androidx.window.layout.WindowInfoTrackerImpl$windowLayoutInfo$1: java.lang.Object invoke(kotlinx.coroutines.flow.FlowCollector,kotlin.coroutines.Continuation)
+com.google.android.gms.internal.measurement.zzob: com.google.android.gms.internal.measurement.zzob[] values()
+androidx.datastore.preferences.protobuf.FieldType: <clinit>()
+androidx.window.embedding.SplitController: boolean isSplitSupported()
+io.flutter.embedding.engine.FlutterJNI: long performNativeAttach(io.flutter.embedding.engine.FlutterJNI)
+com.google.firebase.remoteconfig.internal.ConfigFetchHttpClient: com.google.firebase.remoteconfig.internal.ConfigFetchHandler$FetchResponse fetch(java.net.HttpURLConnection,java.lang.String,java.lang.String,java.util.Map,java.lang.String,java.util.Map,java.lang.Long,java.util.Date)
+androidx.window.embedding.ActivityFilter: ActivityFilter(android.content.ComponentName,java.lang.String)
+io.flutter.plugins.firebase.firebaseremoteconfig.FlutterFirebaseAppRegistrar: FlutterFirebaseAppRegistrar()
+androidx.window.layout.WindowMetricsCalculator$Companion: androidx.window.layout.WindowMetricsCalculator getOrCreate()
+com.google.firebase.crashlytics.internal.common.DeliveryMechanism: com.google.firebase.crashlytics.internal.common.DeliveryMechanism valueOf(java.lang.String)
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion()
+androidx.window.layout.FoldingFeature$State$Companion: FoldingFeature$State$Companion(kotlin.jvm.internal.DefaultConstructorMarker)
+androidx.datastore.preferences.protobuf.Writer$FieldOrder: androidx.datastore.preferences.protobuf.Writer$FieldOrder[] values()
+androidx.window.embedding.ExtensionEmbeddingBackend: void unregisterRule(androidx.window.embedding.EmbeddingRule)
+com.google.firebase.remoteconfig.internal.ConfigFetchHandler$FetchType: com.google.firebase.remoteconfig.internal.ConfigFetchHandler$FetchType valueOf(java.lang.String)
+androidx.window.layout.SidecarWindowBackend: java.util.concurrent.locks.ReentrantLock access$getGlobalLock$cp()
+androidx.window.embedding.ActivityStack: boolean equals(java.lang.Object)
+io.flutter.embedding.android.FlutterImageView: io.flutter.embedding.engine.renderer.FlutterRenderer getAttachedRenderer()
+androidx.window.layout.WindowInfoTracker: kotlinx.coroutines.flow.Flow windowLayoutInfo(android.app.Activity)
+kotlin.jvm.internal.CallableReference: kotlin.reflect.KCallable getReflected()
+com.google.android.gms.measurement.internal.zzak: java.lang.String[] zzT()
+kotlin.jvm.internal.CallableReference: boolean isFinal()
+androidx.core.app.RemoteActionCompat: RemoteActionCompat()
+androidx.window.layout.SidecarCompat$FirstAttachAdapter: SidecarCompat$FirstAttachAdapter(androidx.window.layout.SidecarCompat,android.app.Activity)
+androidx.window.embedding.ActivityFilter: android.content.ComponentName getComponentName()
+androidx.datastore.preferences.protobuf.ProtobufArrayList: androidx.datastore.preferences.protobuf.ProtobufArrayList mutableCopyWithCapacity(int)
+androidx.window.core.Bounds: Bounds(android.graphics.Rect)
+androidx.window.embedding.SplitController: void registerRule(androidx.window.embedding.EmbeddingRule)
+androidx.window.embedding.EmbeddingAdapter: boolean translateActivityIntentPredicates$lambda-3(androidx.window.embedding.EmbeddingAdapter,java.util.Set,android.util.Pair)
+com.google.android.gms.common.internal.zzj: void writeToParcel(android.os.Parcel,int)
+com.google.android.gms.measurement.internal.AppMeasurementDynamiteService: void getCurrentScreenName(com.google.android.gms.internal.measurement.zzcf)
+com.google.firebase.installations.FirebaseInstallationsRegistrar: FirebaseInstallationsRegistrar()
+androidx.datastore.preferences.protobuf.FieldType$Collection: androidx.datastore.preferences.protobuf.FieldType$Collection[] values()
+androidx.window.layout.FoldingFeature$OcclusionType$Companion: FoldingFeature$OcclusionType$Companion()
+androidx.window.layout.SidecarCompat$TranslatingCallback: void onDeviceStateChanged(androidx.window.sidecar.SidecarDeviceState)

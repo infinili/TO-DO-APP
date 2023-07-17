@@ -1,0 +1,4 @@
+#Mon Jul 17 14:28:14 VLAT 2023
+base.0=/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/dex/prodRelease/minifyProdReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
