@@ -52,5 +52,5 @@ jobs:
         with:
           appId: ${{secrets.FIRE_ID}}
           token: ${{secrets.FIRE_TOKEN}}
-          groups: testers
+          groups: group
           file: build/app/outputs/flutter-apk/app-prod-release.apk
