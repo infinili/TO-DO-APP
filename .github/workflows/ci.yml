@@ -35,3 +35,22 @@ jobs:
 
       - name: Run flutter lints
         run: flutter analyze
+
+      - name: Decode google.json
+        env:
+          GOOGLE_JSON: ${{ secrets.GOOGLE_JSON }}
+        run: echo "$GOOGLE_JSON" > android/app/google-services.json
+
+      - run: flutter build apk --flavor prod -t lib/main_production.dart
+      - uses: actions/upload-artifact@v1
+        with:
+          name: release-apk
+          path: build/app/outputs/apk/prod/release/app-prod-release.apk
+
+      - name: Get to Firebase App Distribution
+        uses: wzieba/Firebase-Distribution-Github-Action@v1
+        with:
+          appId: ${{secrets.FIRE_ID}}
+          token: ${{secrets.FIRE_TOKEN}}
+          groups: testers
+          file: build/app/outputs/flutter-apk/app-prod-release.apk

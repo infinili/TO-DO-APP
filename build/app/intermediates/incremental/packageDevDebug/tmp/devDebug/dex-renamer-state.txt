@@ -1,0 +1,4 @@
+#Mon Jul 17 13:03:21 VLAT 2023
+base.0=/Volumes/disk/repo/TO-DO-APP/build/app/intermediates/dex/devDebug/mergeDexDevDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

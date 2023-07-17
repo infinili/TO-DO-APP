@@ -146,6 +146,12 @@
       "languageVersion": "3.0"
     },
     {
+      "name": "flutter_flavor",
+      "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/flutter_flavor-3.1.1",
+      "packageUri": "lib/",
+      "languageVersion": "2.17"
+    },
+    {
       "name": "flutter_lints",
       "rootUri": "file:///Users/liza/.pub-cache/hosted/pub.dev/flutter_lints-2.0.1",
       "packageUri": "lib/",
@@ -434,7 +440,7 @@
       "languageVersion": "3.0"
     }
   ],
-  "generated": "2023-07-16T17:53:12.495244Z",
+  "generated": "2023-07-17T02:56:04.739224Z",
   "generator": "pub",
   "generatorVersion": "3.0.5"
 }
